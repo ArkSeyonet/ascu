@@ -13,17 +13,5 @@ def create_sideControls1(parent, x, y, w, h):
         btn.setObjectName(object_name)
         btn.setGeometry(cfg["x"], cfg["y"], cfg["width"], cfg["height"])
 
-        font_cfg = cfg.get("font", {})
-        font = QFont(font_cfg.get("family", "Arial"), font_cfg.get("size", 10))
-        font.setBold(font_cfg.get("bold", False))
-        btn.setFont(font)
-
-        btn.setStyleSheet(f"""
-            QPushButton#{object_name} {{
-                background-color: {cfg.get("bg", "#1C7293")};
-                color: {cfg.get("fg", "#FFFFFF")};
-                border: 1px solid {cfg.get("border", "#000000")};
-            }}
-        """)
-
     return panel
+

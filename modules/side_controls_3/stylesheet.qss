@@ -4,7 +4,7 @@
 }
 
 QPushButton#sideControls3-btn-update-steamcmd {
-    background-color: #1C7293;
+    background-color: #826C06;
     color: #FFFFFF;
     border: 1px solid #9EB3C2;
     font-weight: bold;
@@ -13,7 +13,7 @@ QPushButton#sideControls3-btn-update-steamcmd {
 }
 
 QPushButton#sideControls3-btn-update-atlas {
-    background-color: #1C7293;
+    background-color: #826C06;
     color: #FFFFFF;
     border: 1px solid #9EB3C2;
     font-weight: bold;
@@ -22,7 +22,7 @@ QPushButton#sideControls3-btn-update-atlas {
 }
 
 QPushButton#sideControls3-btn-update-mods {
-    background-color: #1C7293;
+    background-color: #826C06;
     color: #FFFFFF;
     border: 1px solid #9EB3C2;
     font-weight: bold;

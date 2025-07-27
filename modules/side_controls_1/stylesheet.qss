@@ -54,5 +54,14 @@ QPushButton#sideControls1-btn-stop-other {
     border: 1px solid #9EB3C2;
     font-weight: bold;
     font-size: 10px;
-    font-family: M
+    font-family: Montserrat;
+}
+
+QPushButton#sideControls1-btn-stop-all {
+    background-color: #822E06;
+    color: #FFFFFF;
+    border: 1px solid #9EB3C2;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
 }

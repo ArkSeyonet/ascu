@@ -4,7 +4,7 @@
 }
 
 QPushButton#sideControls2-btn-set-atlas-directory {
-    background-color: #1C7293;
+    background-color: #826C06;
     color: #FFFFFF;
     border: 1px solid #9EB3C2;
     font-weight: bold;
@@ -13,7 +13,7 @@ QPushButton#sideControls2-btn-set-atlas-directory {
 }
 
 QPushButton#sideControls2-btn-import-servergrid {
-    background-color: #1C7293;
+    background-color: #826C06;
     color: #FFFFFF;
     border: 1px solid #9EB3C2;
     font-weight: bold;
@@ -22,7 +22,7 @@ QPushButton#sideControls2-btn-import-servergrid {
 }
 
 QPushButton#sideControls2-btn-set-other-grids {
-    background-color: #1C7293;
+    background-color: #826C06;
     color: #FFFFFF;
     border: 1px solid #9EB3C2;
     font-weight: bold;
@@ -31,7 +31,7 @@ QPushButton#sideControls2-btn-set-other-grids {
 }
 
 QPushButton#sideControls2-btn-ini-files {
-    background-color: #1C7293;
+    background-color: #826C06;
     color: #FFFFFF;
     border: 1px solid #9EB3C2;
     font-weight: bold;
@@ -40,7 +40,7 @@ QPushButton#sideControls2-btn-ini-files {
 }
 
 QPushButton#sideControls2-btn-other-settings {
-    background-color: #1C7293;
+    background-color: #826C06;
     color: #FFFFFF;
     border: 1px solid #9EB3C2;
     font-weight: bold;
