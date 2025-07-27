@@ -1,0 +1,58 @@
+#sideControls1 {
+    background-color: #065A82;
+    border: 1px solid #9EB3C2;
+}
+
+QPushButton#sideControls1-btn-start-main {
+    background-color: #06826C;
+    color: #FFFFFF;
+    border: 1px solid #9EB3C2;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
+}
+
+QPushButton#sideControls1-btn-stop-main {
+    background-color: #822E06;
+    color: #FFFFFF;
+    border: 1px solid #9EB3C2;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
+}
+
+QPushButton#sideControls1-btn-start-selected {
+    background-color: #06826C;
+    color: #FFFFFF;
+    border: 1px solid #9EB3C2;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
+}
+
+QPushButton#sideControls1-btn-stop-selected {
+    background-color: #822E06;
+    color: #FFFFFF;
+    border: 1px solid #9EB3C2;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
+}
+
+QPushButton#sideControls1-btn-start-other {
+    background-color: #06826C;
+    color: #FFFFFF;
+    border: 1px solid #9EB3C2;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
+}
+
+QPushButton#sideControls1-btn-stop-other {
+    background-color: #822E06;
+    color: #FFFFFF;
+    border: 1px solid #9EB3C2;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: M
+}

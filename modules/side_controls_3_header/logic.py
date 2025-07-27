@@ -1,6 +1,6 @@
 from PyQt6.QtWidgets import QLabel
 from PyQt6.QtCore import Qt
-from modules.side_controls_2_header.config import layout
+from modules.side_controls_3_header.config import layout
 
 def create_sideControls3Header(parent, x, y, w, h):
     panel = QLabel(parent)

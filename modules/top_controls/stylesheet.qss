@@ -1,0 +1,67 @@
+#topControls {
+    background-color: #065A82;
+    border: 1px solid #9EB3C2;
+}
+
+#topControls-label {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 12px;
+    background: transparent;
+}
+
+QPushButton#topControls-btn-allboth {
+    background-color: #826C06;
+    color: #FFFFFF;
+    border: none;
+    font-weight: bold;
+}
+
+QPushButton#topControls-btn-allmain {
+    background-color: #826C06;
+    color: #FFFFFF;
+    border: none;
+    font-weight: bold;
+}
+
+QPushButton#topControls-btn-allother {
+    background-color: #826C06;
+    color: #FFFFFF;
+    border: none;
+    font-weight: bold;
+}
+
+QPushButton#topControls-btn-none {
+    background-color: #826C06;
+    color: #FFFFFF;
+    border: none;
+    font-weight: bold;
+}
+
+QPushButton#topControls-btn-started {
+    background-color: #826C06;
+    color: #FFFFFF;
+    border: none;
+    font-weight: bold;
+}
+
+QPushButton#topControls-btn-stopped {
+    background-color: #826C06;
+    color: #FFFFFF;
+    border: none;
+    font-weight: bold;
+}
+
+QPushButton#topControls-btn-pve {
+    background-color: #826C06;
+    color: #FFFFFF;
+    border: none;
+    font-weight: bold;
+}
+
+QPushButton#topControls-btn-pvp {
+    background-color: #826C06;
+    color: #FFFFFF;
+    border: none;
+    font-weight: bold;
+}

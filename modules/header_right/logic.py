@@ -63,23 +63,25 @@ def create_header_right(parent, x, y, w, h):
         if steam_label:
             steam_label.setText("Installed" if installed else "Not Installed")
             steam_label.setObjectName("label-status-steamcmd-installed" if installed else "label-status-steamcmd-missing")
-            steam_label.setStyleSheet("")  # trigger QSS refresh
+            steam_label.setStyleSheet("")  # refresh QSS
 
     def update_system_usage():
         cpu_label = metric_labels.get("label-cpu")
         mem_label = metric_labels.get("label-mem")
         if cpu_label:
-            cpu_label.setText(f"{psutil.cpu_percent(interval=0.5)}%")
+            cpu_label.setText(f"{psutil.cpu_percent(interval=None)}%")
         if mem_label:
             mem = psutil.virtual_memory()
             mem_label.setText(f"{mem.percent}%")
 
-    # Initial + periodic updates
+    # Initialize psutil CPU tracking (required before using interval=None)
+    psutil.cpu_percent(interval=None)
+
     update_steamcmd_status()
     update_system_usage()
 
     timer = QTimer(container)
     timer.timeout.connect(update_system_usage)
-    timer.start(1000)
+    timer.start(1000)  # Adjust to 2000 for less frequent polling
 
     return container

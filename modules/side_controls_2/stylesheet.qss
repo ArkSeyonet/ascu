@@ -1,0 +1,49 @@
+#sideControls2 {
+    background-color: #065A82;
+    border: 1px solid #9EB3C2;
+}
+
+QPushButton#sideControls2-btn-set-atlas-directory {
+    background-color: #1C7293;
+    color: #FFFFFF;
+    border: 1px solid #9EB3C2;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
+}
+
+QPushButton#sideControls2-btn-import-servergrid {
+    background-color: #1C7293;
+    color: #FFFFFF;
+    border: 1px solid #9EB3C2;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
+}
+
+QPushButton#sideControls2-btn-set-other-grids {
+    background-color: #1C7293;
+    color: #FFFFFF;
+    border: 1px solid #9EB3C2;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
+}
+
+QPushButton#sideControls2-btn-ini-files {
+    background-color: #1C7293;
+    color: #FFFFFF;
+    border: 1px solid #9EB3C2;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
+}
+
+QPushButton#sideControls2-btn-other-settings {
+    background-color: #1C7293;
+    color: #FFFFFF;
+    border: 1px solid #9EB3C2;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
+}
