@@ -38,6 +38,9 @@ from modules.side_controls_1.config import layout as layout_sideControls1
 from modules.side_controls_2.config import layout as layout_sideControls2
 from modules.side_controls_3.config import layout as layout_sideControls3
 
+from modules.logger.config import layout as layout_logger
+from modules.logger.logic import Logger
+
 class ServerControllerUI(QWidget):
     def __init__(self):
         super().__init__()
@@ -45,7 +48,9 @@ class ServerControllerUI(QWidget):
         self.setWindowTitle("ATLAS SERVER CONTROLLER UTILITY (v1.0_DEV)")
         self.setWindowIcon(QIcon("img/atlas_ico.ico"))
         self.set_font()
-        self.init_ui()
+
+        self.init_ui()       # build all UI panels except logger
+        self.init_logger()   # create logger panel and output
         self.apply_stylesheet()
 
     def set_font(self):
@@ -83,7 +88,7 @@ class ServerControllerUI(QWidget):
         elif name == "sideControls2":
             return create_sideControls2(self, x, y, w, h)
         elif name == "sideControls3":
-            return create_sideControls3(self, x, y, w, h)
+            return create_sideControls3(self, x, y, w, h, self, getattr(self, "logger", None))
         else:
             panel = QLabel(self)
             panel.setObjectName(name)
@@ -103,6 +108,7 @@ class ServerControllerUI(QWidget):
         merged_layout["sideControls1"] = layout_sideControls1
         merged_layout["sideControls2"] = layout_sideControls2
         merged_layout["sideControls3"] = layout_sideControls3
+        # logger is not included in this loop anymore
 
         for name, info in merged_layout.items():
             position = info["position"]
@@ -113,6 +119,20 @@ class ServerControllerUI(QWidget):
             y = offset_y if "top" in position else WINDOW_HEIGHT - offset_y - height if "bottom" in position else 0
 
             self.create_panel(name, x, y, width, height)
+
+    def init_logger(self):
+        panel_cfg = layout_logger["panel"]
+        x = panel_cfg["offset"][0]
+        y = WINDOW_HEIGHT - panel_cfg["offset"][1] - panel_cfg["size"][1]
+        width = panel_cfg["size"][0]
+        height = panel_cfg["size"][1]
+
+        logger_panel = QLabel(self)
+        logger_panel.setObjectName("logger")
+        logger_panel.setGeometry(x, y, width, height)
+
+        self.logger = Logger(logger_panel)
+        self.logger.show()
 
     def apply_stylesheet(self):
         def read_qss(path):
@@ -134,6 +154,7 @@ class ServerControllerUI(QWidget):
             "modules/side_controls_1/stylesheet.qss",
             "modules/side_controls_2/stylesheet.qss",
             "modules/side_controls_3/stylesheet.qss",
+            "modules/logger/stylesheet.qss"
         ]
         module_qss = "\n".join(read_qss(path) for path in qss_modules)
         self.setStyleSheet(global_qss + "\n" + module_qss)

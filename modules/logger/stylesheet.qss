@@ -1,0 +1,18 @@
+#logger {
+    background-color: #1B3B6F;
+    border: 1px solid #9EB3C2;
+    color: white;
+    font-family: Consolas, monospace;
+    font-size: 10pt;
+    padding: 4px;
+}
+
+#loggerOutput {
+    background: transparent;
+    border: none;
+    color: white;
+    font-family: Consolas, monospace;
+    font-size: 10pt;
+    padding: 4px;
+}
+

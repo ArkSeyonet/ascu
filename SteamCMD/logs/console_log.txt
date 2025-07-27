@@ -1,0 +1,344 @@
+
+
+[2025-07-25 20:34:08] Client version: 1751406682
+[2025-07-25 20:34:08] Loading Steam API...
+[2025-07-25 20:34:08] OK
+[2025-07-25 20:34:09] Unloading Steam API...
+[2025-07-25 20:34:09] OK
+
+
+[2025-07-26 20:00:15] Client version: 1751406682
+[2025-07-26 20:00:15] Loading Steam API...
+[2025-07-26 20:00:15] OK
+[2025-07-26 20:00:15] 
+Steam>
+
+
+[2025-07-26 20:01:58] Client version: 1751406682
+[2025-07-26 20:01:58] Loading Steam API...
+[2025-07-26 20:01:58] OK
+[2025-07-26 20:01:58] 
+Steam>
+
+
+[2025-07-26 20:04:15] Client version: 1751406682
+[2025-07-26 20:04:15] Loading Steam API...
+[2025-07-26 20:04:15] OK
+[2025-07-26 20:04:15] 
+Steam>
+
+
+[2025-07-26 20:06:59] Client version: 1751406682
+[2025-07-26 20:06:59] Loading Steam API...
+[2025-07-26 20:06:59] OK
+[2025-07-26 20:06:59] 
+Steam>
+
+
+[2025-07-26 20:07:22] Client version: 1751406682
+[2025-07-26 20:07:22] Loading Steam API...
+[2025-07-26 20:07:22] OK
+[2025-07-26 20:07:22] 
+Steam>
+
+
+[2025-07-26 20:09:51] Client version: 1751406682
+[2025-07-26 20:09:51] Loading Steam API...
+[2025-07-26 20:09:51] OK
+[2025-07-26 20:09:51] 
+Steam>
+
+
+[2025-07-26 20:11:49] Client version: 1751406682
+[2025-07-26 20:11:49] Loading Steam API...
+[2025-07-26 20:11:49] OK
+[2025-07-26 20:11:49] 
+Steam>
+
+
+[2025-07-26 21:46:51] Client version: 1751406682
+[2025-07-26 21:46:51] Loading Steam API...
+[2025-07-26 21:46:51] OK
+[2025-07-26 21:46:51] Unloading Steam API...
+[2025-07-26 21:46:51] OK
+
+
+[2025-07-26 21:47:36] Client version: 1751406682
+[2025-07-26 21:47:36] Loading Steam API...
+[2025-07-26 21:47:36] OK
+[2025-07-26 21:47:37] Unloading Steam API...
+[2025-07-26 21:47:37] OK
+
+
+[2025-07-26 21:48:53] Client version: 1751406682
+[2025-07-26 21:48:53] Loading Steam API...
+[2025-07-26 21:48:53] OK
+[2025-07-26 21:48:53] Unloading Steam API...
+[2025-07-26 21:48:53] OK
+
+
+[2025-07-26 21:49:39] Client version: 1751406682
+[2025-07-26 21:49:39] Loading Steam API...
+[2025-07-26 21:49:39] OK
+[2025-07-26 21:49:39] Unloading Steam API...
+[2025-07-26 21:49:39] OK
+
+
+[2025-07-26 21:54:20] Client version: 1751406682
+[2025-07-26 21:54:20] Loading Steam API...
+[2025-07-26 21:54:20] OK
+[2025-07-26 21:54:21] Unloading Steam API...
+[2025-07-26 21:54:21] OK
+
+
+[2025-07-26 21:55:53] Client version: 1751406682
+[2025-07-26 21:55:53] Loading Steam API...
+[2025-07-26 21:55:53] OK
+[2025-07-26 21:55:53] Unloading Steam API...
+[2025-07-26 21:55:53] OK
+
+
+[2025-07-26 21:57:37] Client version: 1751406682
+[2025-07-26 21:57:37] Loading Steam API...
+[2025-07-26 21:57:37] OK
+[2025-07-26 21:57:37] Unloading Steam API...
+[2025-07-26 21:57:37] OK
+
+
+[2025-07-26 21:59:12] Client version: 1751406682
+[2025-07-26 21:59:12] Loading Steam API...
+[2025-07-26 21:59:12] OK
+[2025-07-26 21:59:12] Unloading Steam API...
+[2025-07-26 21:59:12] OK
+
+
+[2025-07-26 22:01:03] Client version: 1751406682
+[2025-07-26 22:01:03] Loading Steam API...
+[2025-07-26 22:01:03] OK
+[2025-07-26 22:01:03] Unloading Steam API...
+
+
+[2025-07-26 22:03:47] Client version: 1751406682
+[2025-07-26 22:03:47] Loading Steam API...
+[2025-07-26 22:03:47] OK
+[2025-07-26 22:03:47] force_install_dir C:\atlasdedicatedserver
+[2025-07-26 22:03:47] 
+Connecting anonymously to Steam Public...
+[2025-07-26 22:03:50] OK
+[2025-07-26 22:03:50] Waiting for client config...
+[2025-07-26 22:03:52] OK
+[2025-07-26 22:03:52] Waiting for user info...
+[2025-07-26 22:03:55] OK
+[2025-07-26 22:03:55] app_update 1006030 validate
+[2025-07-26 22:03:58]  Update state (0x3) reconfiguring, progress: 0.00 (0 / 0)
+[2025-07-26 22:04:00]  Update state (0x5) verifying install, progress: 0.42 (147048569 / 34806155425)
+[2025-07-26 22:04:02]  Update state (0x5) verifying install, progress: 1.32 (459175516 / 34806155425)
+[2025-07-26 22:04:04]  Update state (0x5) verifying install, progress: 2.13 (739728760 / 34806155425)
+[2025-07-26 22:04:06]  Update state (0x5) verifying install, progress: 4.07 (1418119119 / 34806155425)
+[2025-07-26 22:04:09]  Update state (0x5) verifying install, progress: 4.52 (1573948922 / 34806155425)
+[2025-07-26 22:04:11]  Update state (0x5) verifying install, progress: 5.44 (1894115846 / 34806155425)
+[2025-07-26 22:04:13]  Update state (0x5) verifying install, progress: 7.10 (2470512963 / 34806155425)
+[2025-07-26 22:04:15]  Update state (0x5) verifying install, progress: 7.52 (2618693644 / 34806155425)
+[2025-07-26 22:04:17]  Update state (0x5) verifying install, progress: 7.77 (2705656245 / 34806155425)
+[2025-07-26 22:04:19]  Update state (0x5) verifying install, progress: 8.46 (2944224527 / 34806155425)
+[2025-07-26 22:04:21]  Update state (0x5) verifying install, progress: 9.34 (3252488592 / 34806155425)
+[2025-07-26 22:04:23]  Update state (0x5) verifying install, progress: 12.58 (4378088400 / 34806155425)
+[2025-07-26 22:04:25]  Update state (0x5) verifying install, progress: 13.19 (4590300795 / 34806155425)
+[2025-07-26 22:04:27]  Update state (0x5) verifying install, progress: 13.57 (4724717942 / 34806155425)
+[2025-07-26 22:04:29]  Update state (0x5) verifying install, progress: 14.20 (4941076363 / 34806155425)
+[2025-07-26 22:04:31]  Update state (0x5) verifying install, progress: 14.51 (5049493570 / 34806155425)
+[2025-07-26 22:04:33]  Update state (0x5) verifying install, progress: 15.20 (5289144696 / 34806155425)
+[2025-07-26 22:04:35]  Update state (0x5) verifying install, progress: 15.61 (5434633871 / 34806155425)
+[2025-07-26 22:04:37]  Update state (0x5) verifying install, progress: 16.48 (5736399503 / 34806155425)
+[2025-07-26 22:04:39]  Update state (0x5) verifying install, progress: 16.86 (5869740704 / 34806155425)
+[2025-07-26 22:04:41]  Update state (0x5) verifying install, progress: 17.26 (6009179696 / 34806155425)
+[2025-07-26 22:04:43]  Update state (0x5) verifying install, progress: 18.03 (6275514976 / 34806155425)
+[2025-07-26 22:04:45]  Update state (0x5) verifying install, progress: 18.76 (6530955206 / 34806155425)
+[2025-07-26 22:04:47]  Update state (0x5) verifying install, progress: 22.89 (7968817682 / 34806155425)
+[2025-07-26 22:04:49]  Update state (0x5) verifying install, progress: 25.67 (8935107150 / 34806155425)
+[2025-07-26 22:04:51]  Update state (0x5) verifying install, progress: 29.40 (10231933375 / 34806155425)
+[2025-07-26 22:04:53]  Update state (0x5) verifying install, progress: 31.91 (11106050070 / 34806155425)
+[2025-07-26 22:04:55]  Update state (0x5) verifying install, progress: 33.33 (11602405218 / 34806155425)
+[2025-07-26 22:04:57]  Update state (0x5) verifying install, progress: 33.94 (11814519949 / 34806155425)
+[2025-07-26 22:04:59]  Update state (0x5) verifying install, progress: 35.09 (12214951632 / 34806155425)
+[2025-07-26 22:05:01]  Update state (0x5) verifying install, progress: 35.68 (12417343102 / 34806155425)
+[2025-07-26 22:05:03]  Update state (0x5) verifying install, progress: 35.85 (12478543185 / 34806155425)
+[2025-07-26 22:05:05]  Update state (0x5) verifying install, progress: 36.36 (12655724021 / 34806155425)
+[2025-07-26 22:05:07]  Update state (0x5) verifying install, progress: 37.09 (12911036016 / 34806155425)
+[2025-07-26 22:05:09]  Update state (0x5) verifying install, progress: 37.36 (13002235845 / 34806155425)
+[2025-07-26 22:05:11]  Update state (0x5) verifying install, progress: 38.52 (13407812115 / 34806155425)
+[2025-07-26 22:05:13]  Update state (0x5) verifying install, progress: 38.78 (13498694374 / 34806155425)
+[2025-07-26 22:05:15]  Update state (0x5) verifying install, progress: 39.92 (13895469318 / 34806155425)
+[2025-07-26 22:05:17]  Update state (0x5) verifying install, progress: 40.20 (13991535539 / 34806155425)
+[2025-07-26 22:05:19]  Update state (0x5) verifying install, progress: 41.05 (14286536108 / 34806155425)
+[2025-07-26 22:05:21]  Update state (0x5) verifying install, progress: 41.84 (14562334722 / 34806155425)
+[2025-07-26 22:05:23]  Update state (0x5) verifying install, progress: 42.44 (14773040944 / 34806155425)
+[2025-07-26 22:05:25]  Update state (0x5) verifying install, progress: 43.40 (15106514789 / 34806155425)
+[2025-07-26 22:05:27]  Update state (0x5) verifying install, progress: 45.25 (15749828592 / 34806155425)
+[2025-07-26 22:05:29]  Update state (0x5) verifying install, progress: 46.68 (16247279233 / 34806155425)
+[2025-07-26 22:05:31]  Update state (0x5) verifying install, progress: 46.98 (16352783676 / 34806155425)
+[2025-07-26 22:05:33]  Update state (0x5) verifying install, progress: 48.53 (16890489388 / 34806155425)
+[2025-07-26 22:05:35]  Update state (0x5) verifying install, progress: 49.89 (17365893533 / 34806155425)
+[2025-07-26 22:05:37]  Update state (0x5) verifying install, progress: 50.50 (17576854216 / 34806155425)
+[2025-07-26 22:05:39]  Update state (0x5) verifying install, progress: 51.33 (17865261173 / 34806155425)
+[2025-07-26 22:05:41]  Update state (0x5) verifying install, progress: 51.65 (17976409382 / 34806155425)
+[2025-07-26 22:05:43]  Update state (0x5) verifying install, progress: 52.99 (18442633221 / 34806155425)
+[2025-07-26 22:05:45]  Update state (0x5) verifying install, progress: 53.42 (18593444381 / 34806155425)
+[2025-07-26 22:05:47]  Update state (0x5) verifying install, progress: 54.11 (18831982692 / 34806155425)
+[2025-07-26 22:05:49]  Update state (0x5) verifying install, progress: 54.24 (18879159646 / 34806155425)
+[2025-07-26 22:05:51]  Update state (0x5) verifying install, progress: 54.68 (19031188974 / 34806155425)
+[2025-07-26 22:05:53]  Update state (0x5) verifying install, progress: 56.06 (19513285005 / 34806155425)
+[2025-07-26 22:05:55]  Update state (0x5) verifying install, progress: 57.08 (19866959264 / 34806155425)
+[2025-07-26 22:05:57]  Update state (0x5) verifying install, progress: 57.55 (20031990391 / 34806155425)
+[2025-07-26 22:05:59]  Update state (0x5) verifying install, progress: 58.19 (20253754347 / 34806155425)
+[2025-07-26 22:06:01]  Update state (0x5) verifying install, progress: 59.04 (20551044017 / 34806155425)
+[2025-07-26 22:06:03]  Update state (0x5) verifying install, progress: 59.75 (20795989978 / 34806155425)
+[2025-07-26 22:06:05]  Update state (0x5) verifying install, progress: 60.52 (21064760880 / 34806155425)
+[2025-07-26 22:06:07]  Update state (0x5) verifying install, progress: 61.02 (21237018980 / 34806155425)
+[2025-07-26 22:06:09]  Update state (0x5) verifying install, progress: 62.09 (21612446032 / 34806155425)
+[2025-07-26 22:06:11]  Update state (0x5) verifying install, progress: 62.72 (21830180640 / 34806155425)
+[2025-07-26 22:06:13]  Update state (0x5) verifying install, progress: 63.38 (22060771353 / 34806155425)
+[2025-07-26 22:06:15]  Update state (0x5) verifying install, progress: 63.84 (22221746444 / 34806155425)
+[2025-07-26 22:06:17]  Update state (0x5) verifying install, progress: 64.53 (22459770701 / 34806155425)
+[2025-07-26 22:06:19]  Update state (0x5) verifying install, progress: 65.19 (22688756622 / 34806155425)
+[2025-07-26 22:06:21]  Update state (0x5) verifying install, progress: 65.57 (22822989207 / 34806155425)
+[2025-07-26 22:06:23]  Update state (0x5) verifying install, progress: 65.83 (22913295294 / 34806155425)
+[2025-07-26 22:06:25]  Update state (0x5) verifying install, progress: 67.09 (23349939339 / 34806155425)
+[2025-07-26 22:06:27]  Update state (0x5) verifying install, progress: 67.30 (23424308149 / 34806155425)
+[2025-07-26 22:06:29]  Update state (0x5) verifying install, progress: 67.43 (23469824973 / 34806155425)
+[2025-07-26 22:06:31]  Update state (0x5) verifying install, progress: 68.34 (23787937289 / 34806155425)
+[2025-07-26 22:06:33]  Update state (0x5) verifying install, progress: 69.18 (24078996095 / 34806155425)
+[2025-07-26 22:06:35]  Update state (0x5) verifying install, progress: 69.75 (24278018258 / 34806155425)
+[2025-07-26 22:06:37]  Update state (0x5) verifying install, progress: 70.38 (24495690103 / 34806155425)
+[2025-07-26 22:06:40]  Update state (0x5) verifying install, progress: 70.84 (24657122170 / 34806155425)
+
+
+[2025-07-26 22:06:47] Client version: 1751406682
+[2025-07-26 22:06:47] Loading Steam API...
+[2025-07-26 22:06:47] OK
+[2025-07-26 22:06:48] Unloading Steam API...
+[2025-07-26 22:06:48] OK
+
+
+[2025-07-26 22:06:50] Client version: 1751406682
+[2025-07-26 22:06:50] Loading Steam API...
+[2025-07-26 22:06:50] OK
+[2025-07-26 22:06:50] force_install_dir C:\atlasdedicatedserver
+[2025-07-26 22:06:50] 
+Connecting anonymously to Steam Public...
+[2025-07-26 22:06:51] OK
+[2025-07-26 22:06:51] Waiting for client config...
+[2025-07-26 22:06:52] OK
+[2025-07-26 22:06:52] Waiting for user info...
+[2025-07-26 22:06:52] OK
+[2025-07-26 22:06:52] app_update 1006030 validate
+[2025-07-26 22:06:54]  Update state (0x5) verifying install, progress: 1.37 (478247653 / 34806155425)
+[2025-07-26 22:06:56]  Update state (0x5) verifying install, progress: 3.46 (1203971300 / 34806155425)
+[2025-07-26 22:06:58]  Update state (0x5) verifying install, progress: 7.07 (2460689159 / 34806155425)
+[2025-07-26 22:07:00]  Update state (0x5) verifying install, progress: 8.27 (2877731852 / 34806155425)
+[2025-07-26 22:07:02]  Update state (0x5) verifying install, progress: 8.32 (2895154210 / 34806155425)
+[2025-07-26 22:07:04]  Update state (0x5) verifying install, progress: 8.45 (2941968586 / 34806155425)
+[2025-07-26 22:07:06]  Update state (0x5) verifying install, progress: 8.57 (2982571139 / 34806155425)
+[2025-07-26 22:07:08]  Update state (0x5) verifying install, progress: 8.70 (3027817359 / 34806155425)
+[2025-07-26 22:07:10]  Update state (0x5) verifying install, progress: 8.84 (3077585795 / 34806155425)
+[2025-07-26 22:07:12]  Update state (0x5) verifying install, progress: 8.94 (3112767896 / 34806155425)
+[2025-07-26 22:07:14]  Update state (0x5) verifying install, progress: 9.09 (3165259188 / 34806155425)
+[2025-07-26 22:07:16]  Update state (0x5) verifying install, progress: 9.26 (3224662877 / 34806155425)
+[2025-07-26 22:07:18]  Update state (0x5) verifying install, progress: 9.27 (3226732925 / 34806155425)
+[2025-07-26 22:07:20]  Update state (0x5) verifying install, progress: 9.28 (3229050756 / 34806155425)
+[2025-07-26 22:07:22]  Update state (0x5) verifying install, progress: 9.28 (3230900104 / 34806155425)
+[2025-07-26 22:07:24]  Update state (0x5) verifying install, progress: 9.50 (3306660180 / 34806155425)
+[2025-07-26 22:07:26]  Update state (0x5) verifying install, progress: 9.67 (3366812869 / 34806155425)
+[2025-07-26 22:07:28]  Update state (0x5) verifying install, progress: 10.00 (3479596487 / 34806155425)
+[2025-07-26 22:07:30]  Update state (0x5) verifying install, progress: 10.17 (3539638415 / 34806155425)
+[2025-07-26 22:07:32]  Update state (0x5) verifying install, progress: 12.36 (4303016795 / 34806155425)
+[2025-07-26 22:07:34]  Update state (0x5) verifying install, progress: 15.91 (5538448206 / 34806155425)
+[2025-07-26 22:07:36]  Update state (0x5) verifying install, progress: 19.61 (6826499104 / 34806155425)
+[2025-07-26 22:07:38]  Update state (0x5) verifying install, progress: 23.04 (8018004393 / 34806155425)
+[2025-07-26 22:07:40]  Update state (0x5) verifying install, progress: 26.58 (9251603316 / 34806155425)
+[2025-07-26 22:07:42]  Update state (0x5) verifying install, progress: 30.41 (10585251032 / 34806155425)
+[2025-07-26 22:07:44]  Update state (0x5) verifying install, progress: 34.11 (11871802093 / 34806155425)
+[2025-07-26 22:07:46]  Update state (0x5) verifying install, progress: 38.17 (13285161796 / 34806155425)
+[2025-07-26 22:07:48]  Update state (0x5) verifying install, progress: 42.02 (14625401625 / 34806155425)
+[2025-07-26 22:07:50]  Update state (0x5) verifying install, progress: 45.96 (15996697695 / 34806155425)
+[2025-07-26 22:07:52]  Update state (0x5) verifying install, progress: 48.89 (17015505658 / 34806155425)
+[2025-07-26 22:07:54]  Update state (0x5) verifying install, progress: 52.32 (18209649216 / 34806155425)
+[2025-07-26 22:07:56]  Update state (0x5) verifying install, progress: 56.36 (19616326761 / 34806155425)
+[2025-07-26 22:07:58]  Update state (0x5) verifying install, progress: 60.30 (20989462258 / 34806155425)
+[2025-07-26 22:08:00]  Update state (0x5) verifying install, progress: 64.29 (22376774141 / 34806155425)
+[2025-07-26 22:08:02]  Update state (0x5) verifying install, progress: 68.14 (23718253390 / 34806155425)
+[2025-07-26 22:08:04]  Update state (0x5) verifying install, progress: 70.08 (24393588362 / 34806155425)
+[2025-07-26 22:08:06]  Update state (0x5) verifying install, progress: 71.27 (24805494644 / 34806155425)
+[2025-07-26 22:08:08]  Update state (0x5) verifying install, progress: 71.44 (24864589938 / 34806155425)
+[2025-07-26 22:08:10]  Update state (0x5) verifying install, progress: 71.59 (24919158263 / 34806155425)
+[2025-07-26 22:08:12]  Update state (0x5) verifying install, progress: 71.80 (24990557334 / 34806155425)
+[2025-07-26 22:08:14]  Update state (0x5) verifying install, progress: 71.96 (25048155422 / 34806155425)
+[2025-07-26 22:08:16]  Update state (0x5) verifying install, progress: 72.08 (25087635137 / 34806155425)
+[2025-07-26 22:08:18]  Update state (0x5) verifying install, progress: 72.20 (25131111946 / 34806155425)
+[2025-07-26 22:08:21]  Update state (0x5) verifying install, progress: 72.31 (25167907335 / 34806155425)
+[2025-07-26 22:08:23]  Update state (0x5) verifying install, progress: 72.51 (25237119790 / 34806155425)
+[2025-07-26 22:08:25]  Update state (0x5) verifying install, progress: 72.60 (25270266676 / 34806155425)
+[2025-07-26 22:08:27]  Update state (0x5) verifying install, progress: 72.90 (25374618229 / 34806155425)
+[2025-07-26 22:08:29]  Update state (0x5) verifying install, progress: 74.63 (25975682835 / 34806155425)
+[2025-07-26 22:08:31]  Update state (0x5) verifying install, progress: 76.48 (26620081298 / 34806155425)
+[2025-07-26 22:08:33]  Update state (0x5) verifying install, progress: 78.19 (27213260609 / 34806155425)
+[2025-07-26 22:08:35]  Update state (0x5) verifying install, progress: 82.29 (28642230592 / 34806155425)
+[2025-07-26 22:08:37]  Update state (0x5) verifying install, progress: 86.34 (30053219640 / 34806155425)
+[2025-07-26 22:08:39]  Update state (0x5) verifying install, progress: 90.36 (31449102393 / 34806155425)
+[2025-07-26 22:08:41]  Update state (0x5) verifying install, progress: 94.57 (32916857515 / 34806155425)
+[2025-07-26 22:08:43]  Update state (0x5) verifying install, progress: 98.71 (34358763941 / 34806155425)
+[2025-07-26 22:08:43] Success! App '1006030' fully installed.
+[2025-07-26 22:08:43] quit
+[2025-07-26 22:08:43] Unloading Steam API...
+[2025-07-26 22:08:43] OK
+
+
+[2025-07-26 22:10:25] Client version: 1751406682
+[2025-07-26 22:10:25] Loading Steam API...
+[2025-07-26 22:10:25] OK
+[2025-07-26 22:10:25] Unloading Steam API...
+
+
+[2025-07-26 22:11:49] Client version: 1751406682
+[2025-07-26 22:11:49] Loading Steam API...
+[2025-07-26 22:11:49] OK
+[2025-07-26 22:11:50] Unloading Steam API...
+[2025-07-26 22:11:50] OK
+
+
+[2025-07-26 22:13:02] Client version: 1751406682
+[2025-07-26 22:13:02] Loading Steam API...
+[2025-07-26 22:13:02] OK
+[2025-07-26 22:13:02] Unloading Steam API...
+[2025-07-26 22:13:02] OK
+
+
+[2025-07-26 22:17:01] Client version: 1751406682
+[2025-07-26 22:17:01] Loading Steam API...
+[2025-07-26 22:17:01] OK
+[2025-07-26 22:17:01] Unloading Steam API...
+[2025-07-26 22:17:01] OK
+
+
+[2025-07-26 22:17:03] Client version: 1751406682
+[2025-07-26 22:17:03] Loading Steam API...
+[2025-07-26 22:17:03] OK
+[2025-07-26 22:17:03] force_install_dir C:\atlasdedicatedserver
+[2025-07-26 22:17:03] 
+Connecting anonymously to Steam Public...
+[2025-07-26 22:17:05] OK
+[2025-07-26 22:17:05] Waiting for client config...
+[2025-07-26 22:17:06] OK
+[2025-07-26 22:17:06] Waiting for user info...
+[2025-07-26 22:17:06] OK
+[2025-07-26 22:17:06] app_update 1006030 validate
+[2025-07-26 22:17:08]  Update state (0x5) verifying install, progress: 1.28 (444095585 / 34806155425)
+[2025-07-26 22:17:10]  Update state (0x5) verifying install, progress: 1.67 (580406187 / 34806155425)
+[2025-07-26 22:17:12]  Update state (0x5) verifying install, progress: 5.03 (1749532589 / 34806155425)
+[2025-07-26 22:17:14]  Update state (0x5) verifying install, progress: 8.17 (2842610062 / 34806155425)
+[2025-07-26 22:17:16]  Update state (0x5) verifying install, progress: 8.26 (2874219254 / 34806155425)
+[2025-07-26 22:17:18]  Update state (0x5) verifying install, progress: 8.29 (2886951091 / 34806155425)
+[2025-07-26 22:17:20]  Update state (0x5) verifying install, progress: 8.31 (2892439850 / 34806155425)
+[2025-07-26 22:17:22]  Update state (0x5) verifying install, progress: 8.32 (2896624905 / 34806155425)
+[2025-07-26 22:17:24]  Update state (0x5) verifying install, progress: 8.41 (2928053366 / 34806155425)
+[2025-07-26 22:17:26]  Update state (0x5) verifying install, progress: 8.46 (2944952892 / 34806155425)

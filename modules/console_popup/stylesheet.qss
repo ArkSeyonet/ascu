@@ -1,0 +1,13 @@
+#console-popup {
+    background-color: #1B3B6F;
+    border: 2px solid #9EB3C2;
+}
+
+#console-output {
+    background-color: #0E1A40;
+    color: #FFFFFF;
+    font-family: Consolas;
+    font-size: 12px;
+    border: 1px solid #9EB3C2;
+    padding: 6px;
+}

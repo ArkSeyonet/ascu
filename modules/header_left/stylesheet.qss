@@ -1,17 +1,16 @@
 #header-left {
-    background-color: #065A82;
+    background-color: #065A82; /* or the original value if different */
     border: 1px solid #9EB3C2;
 }
 
 #atlas-logo {
-    border: none;
-    background: transparent;
+    /* keep default scaling via logic.py */
 }
 
 #atlas-title {
-    color: white;
-    font-size: 18px;
+    color: #FFFFFF;
+    font-family: Montserrat;
     font-weight: bold;
-    border: none;
+    font-size: 17px;
     background: transparent;
 }

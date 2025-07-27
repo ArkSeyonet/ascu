@@ -1,0 +1,193 @@
+
+
+[2025-07-25 20:34:08] Client version: 1751406682
+[2025-07-25 20:34:08] ThreadedReadFromDisk: loading appinfo cache from: C:\MyServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-25 20:34:08] ThreadedReadFromDisk: failed to open file: C:\MyServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-25 20:34:08] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 20:00:15] Client version: 1751406682
+[2025-07-26 20:00:15] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:00:15] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:00:15] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 20:01:58] Client version: 1751406682
+[2025-07-26 20:01:58] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:01:58] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:01:58] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 20:04:15] Client version: 1751406682
+[2025-07-26 20:04:15] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:04:15] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:04:15] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 20:06:59] Client version: 1751406682
+[2025-07-26 20:06:59] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:06:59] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:06:59] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 20:07:22] Client version: 1751406682
+[2025-07-26 20:07:22] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:07:22] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:07:22] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 20:09:51] Client version: 1751406682
+[2025-07-26 20:09:51] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:09:51] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:09:51] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 20:11:49] Client version: 1751406682
+[2025-07-26 20:11:49] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:11:49] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 20:11:49] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 21:46:51] Client version: 1751406682
+[2025-07-26 21:46:51] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:46:51] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:46:51] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 21:47:36] Client version: 1751406682
+[2025-07-26 21:47:36] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:47:36] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:47:36] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 21:48:53] Client version: 1751406682
+[2025-07-26 21:48:53] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:48:53] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:48:53] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 21:49:39] Client version: 1751406682
+[2025-07-26 21:49:39] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:49:39] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:49:39] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 21:54:21] Client version: 1751406682
+[2025-07-26 21:54:21] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:54:21] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:54:21] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 21:55:53] Client version: 1751406682
+[2025-07-26 21:55:53] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:55:53] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:55:53] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 21:57:37] Client version: 1751406682
+[2025-07-26 21:57:37] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:57:37] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:57:37] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 21:59:12] Client version: 1751406682
+[2025-07-26 21:59:12] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:59:12] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 21:59:12] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 22:01:03] Client version: 1751406682
+[2025-07-26 22:01:03] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 22:01:03] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 22:01:03] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+
+
+[2025-07-26 22:03:47] Client version: 1751406682
+[2025-07-26 22:03:47] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 22:03:47] ThreadedReadFromDisk: failed to open file: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 22:03:47] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+[2025-07-26 22:03:50] RequestAppInfoUpdate: AppIDs 7
+[2025-07-26 22:03:51] Change number 0->30269301, apps: 0/0, packages: 0/0
+[2025-07-26 22:03:51] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2025-07-26 22:03:51] Downloaded 1 apps via HTTP, 14 KB (3 KB compressed)
+[2025-07-26 22:03:51] Requesting 0 apps, 1 packages (full data, 1024 prev attempts, expected 17 KB)
+[2025-07-26 22:03:52] UpdatesJob: finished OK, apps updated 1 (14 KB), packages updated 1 (17 KB)
+[2025-07-26 22:03:52] Requesting 738 apps, 0 packages (meta data, 1024 prev attempts, expected 34 KB)
+[2025-07-26 22:03:53] Requested 89 app access tokens, 20 received, 69 denied
+[2025-07-26 22:03:53] Updated SHAs with 20 new access tokens
+[2025-07-26 22:03:54] Downloaded 163 apps via HTTP, 2177 KB (512 KB compressed)
+[2025-07-26 22:03:54] Requesting 575 apps, 0 packages (full data, 1024 prev attempts, expected 2431 KB)
+[2025-07-26 22:03:55] UpdatesJob: finished OK, apps updated 738 (4581 KB), packages updated 0 (0 KB)
+[2025-07-26 22:03:55] RequestAppInfoUpdate: AppIDs 1006030
+[2025-07-26 22:03:55] Requesting 70 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2025-07-26 22:03:56] Requested 69 app access tokens, 0 received, 69 denied
+[2025-07-26 22:03:56] Requesting 1 apps, 0 packages (full data, 1024 prev attempts, expected 2 KB)
+[2025-07-26 22:03:56] UpdatesJob: finished OK, apps updated 1 (1 KB), packages updated 0 (0 KB)
+[2025-07-26 22:04:01] ThreadedWriteToDisk: writing appinfo cache to: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 22:04:01] App cache write succeeded C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf (740 apps, 2230 KB) in 15 ms
+
+
+[2025-07-26 22:06:48] Client version: 1751406682
+[2025-07-26 22:06:48] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 22:06:48] ThreadedReadFromDisk: header version: 0x7564429
+[2025-07-26 22:06:48] ThreadedReadFromDisk: apps updated: 740
+[2025-07-26 22:06:48] CAppInfoCacheReadFromDiskThread took 16 milliseconds to initialize
+
+
+[2025-07-26 22:06:50] Client version: 1751406682
+[2025-07-26 22:06:50] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 22:06:50] ThreadedReadFromDisk: header version: 0x7564429
+[2025-07-26 22:06:50] ThreadedReadFromDisk: apps updated: 740
+[2025-07-26 22:06:50] CAppInfoCacheReadFromDiskThread took 16 milliseconds to initialize
+[2025-07-26 22:06:51] RequestAppInfoUpdate: AppIDs 7
+[2025-07-26 22:06:51] Change number 30269301->30269315, apps: 0/12, packages: 0/0
+[2025-07-26 22:06:52] Requesting 70 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2025-07-26 22:06:52] Requested 69 app access tokens, 0 received, 69 denied
+[2025-07-26 22:06:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2025-07-26 22:06:52] RequestAppInfoUpdate: AppIDs 1006030
+[2025-07-26 22:06:52] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2025-07-26 22:06:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2025-07-26 22:10:25] Client version: 1751406682
+[2025-07-26 22:10:25] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 22:10:25] ThreadedReadFromDisk: header version: 0x7564429
+[2025-07-26 22:10:25] ThreadedReadFromDisk: apps updated: 740
+[2025-07-26 22:10:25] CAppInfoCacheReadFromDiskThread took 16 milliseconds to initialize
+
+
+[2025-07-26 22:11:49] Client version: 1751406682
+[2025-07-26 22:11:49] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 22:11:49] ThreadedReadFromDisk: header version: 0x7564429
+[2025-07-26 22:11:49] ThreadedReadFromDisk: apps updated: 740
+[2025-07-26 22:11:49] CAppInfoCacheReadFromDiskThread took 16 milliseconds to initialize
+
+
+[2025-07-26 22:13:02] Client version: 1751406682
+[2025-07-26 22:13:02] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 22:13:02] ThreadedReadFromDisk: header version: 0x7564429
+[2025-07-26 22:13:02] ThreadedReadFromDisk: apps updated: 740
+[2025-07-26 22:13:02] CAppInfoCacheReadFromDiskThread took 16 milliseconds to initialize
+
+
+[2025-07-26 22:17:01] Client version: 1751406682
+[2025-07-26 22:17:01] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 22:17:01] ThreadedReadFromDisk: header version: 0x7564429
+[2025-07-26 22:17:01] ThreadedReadFromDisk: apps updated: 740
+[2025-07-26 22:17:01] CAppInfoCacheReadFromDiskThread took 16 milliseconds to initialize
+
+
+[2025-07-26 22:17:03] Client version: 1751406682
+[2025-07-26 22:17:03] ThreadedReadFromDisk: loading appinfo cache from: C:\MyNewServerManager\SteamCMD/appcache/appinfo.vdf
+[2025-07-26 22:17:03] ThreadedReadFromDisk: header version: 0x7564429
+[2025-07-26 22:17:03] ThreadedReadFromDisk: apps updated: 740
+[2025-07-26 22:17:03] CAppInfoCacheReadFromDiskThread took 17 milliseconds to initialize
+[2025-07-26 22:17:05] RequestAppInfoUpdate: AppIDs 7
+[2025-07-26 22:17:05] Packages changed: force all
+[2025-07-26 22:17:05] Change number 30269315->30269369, apps: 0/45, packages: 0/0
+[2025-07-26 22:17:05] Requesting 70 apps, 1 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2025-07-26 22:17:06] Requested 69 app access tokens, 0 received, 69 denied
+[2025-07-26 22:17:06] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2025-07-26 22:17:06] RequestAppInfoUpdate: AppIDs 1006030
+[2025-07-26 22:17:06] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2025-07-26 22:17:06] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)

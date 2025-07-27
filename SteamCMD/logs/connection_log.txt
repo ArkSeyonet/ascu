@@ -1,0 +1,346 @@
+
+
+[2025-07-25 20:34:08] Client version: 1751406682
+[2025-07-25 20:34:08] Log session started
+[2025-07-25 20:34:08] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-25 20:34:08] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-25 20:34:08] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-25 20:34:09] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753500849 seconds ago)
+[2025-07-25 20:34:09] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 20:00:15] Client version: 1751406682
+[2025-07-26 20:00:15] Log session started
+[2025-07-26 20:00:15] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 20:00:15] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 20:00:15] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+
+
+[2025-07-26 20:01:58] Client version: 1751406682
+[2025-07-26 20:01:58] Log session started
+[2025-07-26 20:01:58] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 20:01:58] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 20:01:58] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+
+
+[2025-07-26 20:04:15] Client version: 1751406682
+[2025-07-26 20:04:15] Log session started
+[2025-07-26 20:04:15] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 20:04:15] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 20:04:15] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+
+
+[2025-07-26 20:06:59] Client version: 1751406682
+[2025-07-26 20:06:59] Log session started
+[2025-07-26 20:06:59] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 20:06:59] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 20:06:59] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+
+
+[2025-07-26 20:07:22] Client version: 1751406682
+[2025-07-26 20:07:22] Log session started
+[2025-07-26 20:07:22] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 20:07:22] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 20:07:22] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+
+
+[2025-07-26 20:09:51] Client version: 1751406682
+[2025-07-26 20:09:51] Log session started
+[2025-07-26 20:09:51] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 20:09:51] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 20:09:51] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+
+
+[2025-07-26 20:11:49] Client version: 1751406682
+[2025-07-26 20:11:49] Log session started
+[2025-07-26 20:11:49] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 20:11:49] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 20:11:49] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+
+
+[2025-07-26 21:46:51] Client version: 1751406682
+[2025-07-26 21:46:51] Log session started
+[2025-07-26 21:46:51] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 21:46:51] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 21:46:51] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 21:46:51] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753591611 seconds ago)
+[2025-07-26 21:46:51] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 21:47:36] Client version: 1751406682
+[2025-07-26 21:47:36] Log session started
+[2025-07-26 21:47:36] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 21:47:36] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 21:47:36] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 21:47:36] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753591656 seconds ago)
+[2025-07-26 21:47:36] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 21:48:53] Client version: 1751406682
+[2025-07-26 21:48:53] Log session started
+[2025-07-26 21:48:53] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 21:48:53] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 21:48:53] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 21:48:53] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753591733 seconds ago)
+[2025-07-26 21:48:53] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 21:49:39] Client version: 1751406682
+[2025-07-26 21:49:39] Log session started
+[2025-07-26 21:49:39] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 21:49:39] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 21:49:39] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 21:49:39] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753591779 seconds ago)
+[2025-07-26 21:49:39] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 21:54:21] Client version: 1751406682
+[2025-07-26 21:54:21] Log session started
+[2025-07-26 21:54:21] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 21:54:21] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 21:54:21] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 21:54:21] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753592061 seconds ago)
+[2025-07-26 21:54:21] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 21:55:53] Client version: 1751406682
+[2025-07-26 21:55:53] Log session started
+[2025-07-26 21:55:53] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 21:55:53] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 21:55:53] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 21:55:53] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753592153 seconds ago)
+[2025-07-26 21:55:53] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 21:57:37] Client version: 1751406682
+[2025-07-26 21:57:37] Log session started
+[2025-07-26 21:57:37] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 21:57:37] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 21:57:37] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 21:57:37] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753592257 seconds ago)
+[2025-07-26 21:57:37] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 21:59:12] Client version: 1751406682
+[2025-07-26 21:59:12] Log session started
+[2025-07-26 21:59:12] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 21:59:12] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 21:59:12] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 21:59:12] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753592352 seconds ago)
+[2025-07-26 21:59:12] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 22:01:03] Client version: 1751406682
+[2025-07-26 22:01:03] Log session started
+[2025-07-26 22:01:03] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 22:01:03] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 22:01:03] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 22:01:03] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753592463 seconds ago)
+[2025-07-26 22:01:03] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 22:03:47] Client version: 1751406682
+[2025-07-26 22:03:47] Log session started
+[2025-07-26 22:03:47] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 22:03:47] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 22:03:47] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 22:03:47] Clearing in-memory token - 1 (OK): SetLoginInformation
+[2025-07-26 22:03:47] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2025-07-26 22:03:47] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2025-07-26 22:03:47] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:03:47] [Logged Off, 4, 0] [a:1:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2025-07-26 22:03:47] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:03:47] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:03:47] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:03:47] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:03:47] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:03:47] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=0&qoslevel=3
+[2025-07-26 22:03:48] GetCMListForConnect -- got 14 Netfilter CMs and 346 WebSocket CMs
+[2025-07-26 22:03:48] GetCMListForConnect -- DC 'fra2' count: 33
+[2025-07-26 22:03:48] GetCMListForConnect -- DC 'sto2' count: 31
+[2025-07-26 22:03:48] GetCMListForConnect -- DC 'sto1' count: 30
+[2025-07-26 22:03:48] GetCMListForConnect -- DC 'fra1' count: 33
+[2025-07-26 22:03:48] GetCMListForConnect -- DC 'ams1' count: 31
+[2025-07-26 22:03:48] GetCMListForConnect -- DC 'vie1' count: 30
+[2025-07-26 22:03:48] GetCMListForConnect -- DC 'par1' count: 30
+[2025-07-26 22:03:48] GetCMListForConnect -- DC 'mad1' count: 30
+[2025-07-26 22:03:48] GetCMListForConnect -- DC 'lhr1' count: 32
+[2025-07-26 22:03:48] GetCMListForConnect -- DC 'waw1' count: 30
+[2025-07-26 22:03:48] GetCMListForConnect -- DC 'tyo3' count: 31
+[2025-07-26 22:03:48] GetCMListForConnect -- DC 'iad1' count: 19
+[2025-07-26 22:03:48] [Connecting, 4, 0] [a:1:0] CM Directory list says 100% of connections should be websockets, we rolled 57 - using WebSockets as default.
+[2025-07-26 22:03:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sto1.steamserver.net:27021) starting...
+[2025-07-26 22:03:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-sto2.steamserver.net:27022) starting...
+[2025-07-26 22:03:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-fra2.steamserver.net:27022) starting...
+[2025-07-26 22:03:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-fra2.steamserver.net:27022) starting...
+[2025-07-26 22:03:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sto1.steamserver.net:27021) results: 167.7955ms + load 52.0000
+[2025-07-26 22:03:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sto1.steamserver.net:443) starting...
+[2025-07-26 22:03:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-fra2.steamserver.net:27022) results: 234.4499ms + load 39.0000
+[2025-07-26 22:03:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-fra2.steamserver.net:27022) results: 219.4110ms + load 41.0000
+[2025-07-26 22:03:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-fra2.steamserver.net:27020) starting...
+[2025-07-26 22:03:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sto2.steamserver.net:27018) starting...
+[2025-07-26 22:03:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-sto2.steamserver.net:27022) results: 205.2158ms + load 48.0000
+[2025-07-26 22:03:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-fra1.steamserver.net:27019) starting...
+[2025-07-26 22:03:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sto1.steamserver.net:443) results: 182.1177ms + load 43.0000
+[2025-07-26 22:03:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-fra2.steamserver.net:443) starting...
+[2025-07-26 22:03:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-fra1.steamserver.net:27019) results: 226.7866ms + load 41.0000
+[2025-07-26 22:03:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-fra2.steamserver.net:27020) results: 243.0890ms + load 53.0000
+[2025-07-26 22:03:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-sto2.steamserver.net:27018) starting...
+[2025-07-26 22:03:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-mad1.steamserver.net:443) starting...
+[2025-07-26 22:03:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sto2.steamserver.net:27018) results: 212.5671ms + load 40.0000
+[2025-07-26 22:03:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext1-par1.steamserver.net:27035) starting...
+[2025-07-26 22:03:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-fra2.steamserver.net:443) results: 182.6878ms + load 40.0000
+[2025-07-26 22:03:50] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext1-par1.steamserver.net:27035) results: 166.1723ms + load 39.0000
+[2025-07-26 22:03:50] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-sto2.steamserver.net:27018) results: 287.5397ms + load 40.0000
+[2025-07-26 22:03:50] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-mad1.steamserver.net:443) results: 181.2580ms + load 43.0000
+[2025-07-26 22:03:50] [Connecting, 4, 3] [a:1:0] Connect() starting connection (eNetQOSLevelHigh, ext1-par1.steamserver.net:27035, WebSocket)
+[2025-07-26 22:03:50] [Connecting, 4, 3] [a:1:0] ConnectionCompleted() (185.25.182.20:27035, WebSocket) local address (192.168.50.70:50739)
+[2025-07-26 22:03:50] [Connecting, 4, 3] [a:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2025-07-26 22:03:50] [Connected, 4, 3] [a:1:0] Logging on [a:1:0]
+[2025-07-26 22:03:50] [Logging On, 4, 3] [a:1:0] RecvMsgClientLogOnResponse() : [a:1:4263965843] 'OK'
+[2025-07-26 22:03:50] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2025-07-26 22:03:50] [Logged On, 4, 3] [a:1:4263965843] RecvMsgClientLogOnResponse() : processing complete
+
+
+[2025-07-26 22:06:48] Client version: 1751406682
+[2025-07-26 22:06:48] Log session started
+[2025-07-26 22:06:48] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 22:06:48] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 22:06:48] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 22:06:48] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753592808 seconds ago)
+[2025-07-26 22:06:48] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 22:06:50] Client version: 1751406682
+[2025-07-26 22:06:50] Log session started
+[2025-07-26 22:06:50] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 22:06:50] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 22:06:50] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 22:06:50] Clearing in-memory token - 1 (OK): SetLoginInformation
+[2025-07-26 22:06:50] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2025-07-26 22:06:50] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2025-07-26 22:06:50] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:06:50] [Logged Off, 4, 0] [a:1:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2025-07-26 22:06:50] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:06:50] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:06:50] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:06:50] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:06:50] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=11&qoslevel=3
+[2025-07-26 22:06:50] GetCMListForConnect -- got 16 Netfilter CMs and 344 WebSocket CMs
+[2025-07-26 22:06:50] GetCMListForConnect -- DC 'dfw2' count: 30
+[2025-07-26 22:06:50] GetCMListForConnect -- DC 'lax1' count: 30
+[2025-07-26 22:06:50] GetCMListForConnect -- DC 'atl3' count: 31
+[2025-07-26 22:06:50] GetCMListForConnect -- DC 'iad1' count: 32
+[2025-07-26 22:06:50] GetCMListForConnect -- DC 'ord1' count: 33
+[2025-07-26 22:06:50] GetCMListForConnect -- DC 'sea1' count: 30
+[2025-07-26 22:06:50] GetCMListForConnect -- DC 'lhr1' count: 34
+[2025-07-26 22:06:50] GetCMListForConnect -- DC 'par1' count: 31
+[2025-07-26 22:06:50] GetCMListForConnect -- DC 'ams1' count: 30
+[2025-07-26 22:06:50] GetCMListForConnect -- DC 'fra1' count: 34
+[2025-07-26 22:06:50] GetCMListForConnect -- DC 'fra2' count: 32
+[2025-07-26 22:06:50] GetCMListForConnect -- DC 'sto2' count: 13
+[2025-07-26 22:06:50] [Connecting, 4, 0] [a:1:0] CM Directory list says 100% of connections should be websockets, we rolled 47 - using WebSockets as default.
+[2025-07-26 22:06:50] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-dfw2.steamserver.net:443) starting...
+[2025-07-26 22:06:50] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-atl3.steamserver.net:443) starting...
+[2025-07-26 22:06:50] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-dfw2.steamserver.net:27018) starting...
+[2025-07-26 22:06:50] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-lax1.steamserver.net:443) starting...
+[2025-07-26 22:06:51] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-dfw2.steamserver.net:27018) results: 44.6620ms + load 14.0000
+[2025-07-26 22:06:51] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() stopping early for good host (cmp2-dfw2.steamserver.net:27018)
+[2025-07-26 22:06:51] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-dfw2.steamserver.net:443) results: 118.9119ms + load 13.0000
+[2025-07-26 22:06:51] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-lax1.steamserver.net:443) results: 46.7302ms + load 9.0000
+[2025-07-26 22:06:51] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-atl3.steamserver.net:443) results: 94.1068ms + load 17.0000
+[2025-07-26 22:06:51] [Connecting, 4, 3] [a:1:0] Connect() starting connection (eNetQOSLevelHigh, cmp2-lax1.steamserver.net:443, WebSocket)
+[2025-07-26 22:06:51] [Connecting, 4, 3] [a:1:0] ConnectionCompleted() (162.254.195.75:443, WebSocket) local address (192.168.50.70:51111)
+[2025-07-26 22:06:51] [Connecting, 4, 3] [a:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2025-07-26 22:06:51] [Connected, 4, 3] [a:1:0] Logging on [a:1:0]
+[2025-07-26 22:06:51] [Logging On, 4, 3] [a:1:0] RecvMsgClientLogOnResponse() : [a:1:511679847] 'OK'
+[2025-07-26 22:06:51] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2025-07-26 22:06:51] [Logged On, 4, 3] [a:1:511679847] RecvMsgClientLogOnResponse() : processing complete
+[2025-07-26 22:08:43] [Logged On, 4, 3] [a:1:511679847] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753592923 seconds ago)
+[2025-07-26 22:08:43] [Logged On, 4, 3] [a:1:511679847] LogOff()
+[2025-07-26 22:08:43] [Logging Off, 4, 3] [a:1:511679847] AsyncDisconnect( bDontWaitOnTCPShutdown: true )
+[2025-07-26 22:08:43] [Logging Off, 0, 3] [a:1:511679847] Log session ended
+
+
+[2025-07-26 22:10:25] Client version: 1751406682
+[2025-07-26 22:10:25] Log session started
+[2025-07-26 22:10:25] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 22:10:25] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 22:10:25] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 22:10:25] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753593025 seconds ago)
+[2025-07-26 22:10:25] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 22:11:49] Client version: 1751406682
+[2025-07-26 22:11:49] Log session started
+[2025-07-26 22:11:49] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 22:11:49] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 22:11:49] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 22:11:50] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753593110 seconds ago)
+[2025-07-26 22:11:50] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 22:13:02] Client version: 1751406682
+[2025-07-26 22:13:02] Log session started
+[2025-07-26 22:13:02] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 22:13:02] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 22:13:02] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 22:13:02] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753593182 seconds ago)
+[2025-07-26 22:13:02] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 22:17:01] Client version: 1751406682
+[2025-07-26 22:17:01] Log session started
+[2025-07-26 22:17:01] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 22:17:01] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 22:17:01] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 22:17:01] [Logged Off, 0, 0] [U:1:0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1753593421 seconds ago)
+[2025-07-26 22:17:01] [Logged Off, 0, 0] [U:1:0] Log session ended
+
+
+[2025-07-26 22:17:03] Client version: 1751406682
+[2025-07-26 22:17:03] Log session started
+[2025-07-26 22:17:03] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2025-07-26 22:17:03] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-07-26 22:17:03] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-07-26 22:17:03] Clearing in-memory token - 1 (OK): SetLoginInformation
+[2025-07-26 22:17:03] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2025-07-26 22:17:03] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2025-07-26 22:17:03] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:17:03] [Logged Off, 4, 0] [a:1:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2025-07-26 22:17:04] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:17:04] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:17:04] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:17:04] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:17:04] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2025-07-26 22:17:04] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=11&qoslevel=3
+[2025-07-26 22:17:04] GetCMListForConnect -- got 14 Netfilter CMs and 346 WebSocket CMs
+[2025-07-26 22:17:04] GetCMListForConnect -- DC 'dfw2' count: 30
+[2025-07-26 22:17:04] GetCMListForConnect -- DC 'lax1' count: 30
+[2025-07-26 22:17:04] GetCMListForConnect -- DC 'atl3' count: 31
+[2025-07-26 22:17:04] GetCMListForConnect -- DC 'iad1' count: 32
+[2025-07-26 22:17:04] GetCMListForConnect -- DC 'ord1' count: 32
+[2025-07-26 22:17:04] GetCMListForConnect -- DC 'sea1' count: 31
+[2025-07-26 22:17:04] GetCMListForConnect -- DC 'lhr1' count: 32
+[2025-07-26 22:17:04] GetCMListForConnect -- DC 'par1' count: 31
+[2025-07-26 22:17:04] GetCMListForConnect -- DC 'ams1' count: 32
+[2025-07-26 22:17:04] GetCMListForConnect -- DC 'fra2' count: 33
+[2025-07-26 22:17:04] GetCMListForConnect -- DC 'fra1' count: 32
+[2025-07-26 22:17:04] GetCMListForConnect -- DC 'sto2' count: 14
+[2025-07-26 22:17:04] [Connecting, 4, 0] [a:1:0] CM Directory list says 100% of connections should be websockets, we rolled 61 - using WebSockets as default.
+[2025-07-26 22:17:04] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-dfw2.steamserver.net:443) starting...
+[2025-07-26 22:17:04] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-dfw2.steamserver.net:27018) starting...
+[2025-07-26 22:17:04] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-lax1.steamserver.net:443) starting...
+[2025-07-26 22:17:04] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-lax1.steamserver.net:27018) starting...
+[2025-07-26 22:17:04] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-lax1.steamserver.net:27018) results: 46.1029ms + load 9.0000
+[2025-07-26 22:17:04] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() stopping early for good host (cmp1-lax1.steamserver.net:27018)
+[2025-07-26 22:17:04] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-dfw2.steamserver.net:27018) results: 95.8197ms + load 16.0000
+[2025-07-26 22:17:05] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-lax1.steamserver.net:443) results: 55.3876ms + load 9.0000
+[2025-07-26 22:17:05] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-dfw2.steamserver.net:443) results: 49.5477ms + load 15.0000
+[2025-07-26 22:17:05] [Connecting, 4, 3] [a:1:0] Connect() starting connection (eNetQOSLevelHigh, cmp1-lax1.steamserver.net:27018, WebSocket)
+[2025-07-26 22:17:05] [Connecting, 4, 3] [a:1:0] ConnectionCompleted() (162.254.195.69:27018, WebSocket) local address (192.168.50.70:52333)
+[2025-07-26 22:17:05] [Connecting, 4, 3] [a:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2025-07-26 22:17:05] [Connected, 4, 3] [a:1:0] Logging on [a:1:0]
+[2025-07-26 22:17:05] [Logging On, 4, 3] [a:1:0] RecvMsgClientLogOnResponse() : [a:1:1013419214] 'OK'
+[2025-07-26 22:17:05] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2025-07-26 22:17:05] [Logged On, 4, 3] [a:1:1013419214] RecvMsgClientLogOnResponse() : processing complete

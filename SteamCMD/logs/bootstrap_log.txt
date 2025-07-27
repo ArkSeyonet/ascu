@@ -1,0 +1,533 @@
+
+
+[2025-07-25 20:33:59] Startup - updater built Dec  2 2013 18:43:44
+[2025-07-25 20:33:59] Checking for update on startup
+[2025-07-25 20:33:59] Checking for available update...
+[2025-07-25 20:33:59] Download failed: http error 0
+[2025-07-25 20:33:59] Package file steamcmd_public_all.zip.8ff3a926fbf646c69eff070955916d6f6b719f22 missing or incorrect size
+[2025-07-25 20:33:59] Package file steamcmd_bins_win32.zip.b5cb64b03054498ab884886f0119b0fd9b699f60 missing or incorrect size
+[2025-07-25 20:33:59] Package file steamcmd_steamservice_win32.zip.6bf562bf77dbe2ce15271f7e2f5e7aca487e17e6 missing or incorrect size
+[2025-07-25 20:33:59] Package file steamcmd_steamerrorreporter_win32.zip.d03a3bad13add21e6d56e3906ff1a2d2c6357087 missing or incorrect size
+[2025-07-25 20:33:59] Package file steamcmd_siteserverui_win32.zip.b9f1d54fcb1ba2bc1342b89fa7f08fc994ecc6bc missing or incorrect size
+[2025-07-25 20:33:59] Package file steamcmd_win32.zip.5c484a80857a6b161de8de0a5eb5c5ea656ba16b missing or incorrect size
+[2025-07-25 20:33:59] Downloading update (0 of 63,528 KB)...
+[2025-07-25 20:34:00] Error: Download of package (steamcmd_win32) failed after 0 bytes (0).
+[2025-07-25 20:34:00] Error: Download of package (steamcmd_siteserverui_win32) failed after 0 bytes (0).
+[2025-07-25 20:34:00] Error: Download of package (steamcmd_steamerrorreporter_win32) failed after 0 bytes (0).
+[2025-07-25 20:34:00] Error: Download of package (steamcmd_steamservice_win32) failed after 0 bytes (0).
+[2025-07-25 20:34:00] Error: Download of package (steamcmd_bins_win32) failed after 0 bytes (0).
+[2025-07-25 20:34:00] Error: Download of package (steamcmd_public_all) failed after 0 bytes (0).
+[2025-07-25 20:34:00] Package file steamcmd_public_all.zip.8ff3a926fbf646c69eff070955916d6f6b719f22 missing or incorrect size
+[2025-07-25 20:34:00] Package file steamcmd_bins_win32.zip.b5cb64b03054498ab884886f0119b0fd9b699f60 missing or incorrect size
+[2025-07-25 20:34:00] Package file steamcmd_steamservice_win32.zip.6bf562bf77dbe2ce15271f7e2f5e7aca487e17e6 missing or incorrect size
+[2025-07-25 20:34:00] Package file steamcmd_steamerrorreporter_win32.zip.d03a3bad13add21e6d56e3906ff1a2d2c6357087 missing or incorrect size
+[2025-07-25 20:34:00] Package file steamcmd_siteserverui_win32.zip.b9f1d54fcb1ba2bc1342b89fa7f08fc994ecc6bc missing or incorrect size
+[2025-07-25 20:34:00] Package file steamcmd_win32.zip.5c484a80857a6b161de8de0a5eb5c5ea656ba16b missing or incorrect size
+[2025-07-25 20:34:00] Downloading update (9,017 of 63,528 KB)...
+[2025-07-25 20:34:00] Downloading update (20,071 of 63,528 KB)...
+[2025-07-25 20:34:00] Downloading update (28,296 of 63,528 KB)...
+[2025-07-25 20:34:01] Downloading update (37,282 of 63,528 KB)...
+[2025-07-25 20:34:01] Downloading update (45,464 of 63,528 KB)...
+[2025-07-25 20:34:01] Downloading update (50,954 of 63,528 KB)...
+[2025-07-25 20:34:02] Downloading update (55,072 of 63,528 KB)...
+[2025-07-25 20:34:02] Downloading update (59,649 of 63,528 KB)...
+[2025-07-25 20:34:02] Downloading update (63,528 of 63,528 KB)...
+[2025-07-25 20:34:02] Download Complete.
+[2025-07-25 20:34:02] uninstalled manifest found in C:\MyServerManager\SteamCMD\package\steam_cmd_win32 (1).
+[2025-07-25 20:34:02] Found pending update
+[2025-07-25 20:34:02] Applying update...
+[2025-07-25 20:34:02] Extracting package...
+[2025-07-25 20:34:03] Installing update...
+[2025-07-25 20:34:03] Committing NTFS transaction (0 non-transactional backup files)
+[2025-07-25 20:34:03] Cleaning up...
+[2025-07-25 20:34:03] Update complete, launching...
+[2025-07-25 20:34:03] Shutdown
+
+
+[2025-07-26 20:00:14] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 20:00:14] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe 
+[2025-07-26 20:00:14] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 20:00:14] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 20:00:14] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 20:00:14] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 20:00:14] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 20:00:14] Checking for update on startup
+[2025-07-26 20:00:14] Checking for available updates...
+[2025-07-26 20:00:14] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 20:00:14] Manifest download: send request
+[2025-07-26 20:00:14] Manifest download: waiting for download to finish
+[2025-07-26 20:00:14] Manifest download: finished
+[2025-07-26 20:00:14] Download skipped by HTTP 304 Not Modified
+[2025-07-26 20:00:14] Nothing to do
+[2025-07-26 20:00:14] Verifying installation...
+[2025-07-26 20:00:14] Verifying all executable checksums
+[2025-07-26 20:00:15] Verification complete
+
+
+[2025-07-26 20:01:58] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 20:01:58] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe 
+[2025-07-26 20:01:58] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 20:01:58] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 20:01:58] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 20:01:58] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 20:01:58] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 20:01:58] Checking for update on startup
+[2025-07-26 20:01:58] Checking for available updates...
+[2025-07-26 20:01:58] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 20:01:58] Manifest download: send request
+[2025-07-26 20:01:58] Manifest download: waiting for download to finish
+[2025-07-26 20:01:58] Manifest download: finished
+[2025-07-26 20:01:58] Download skipped by HTTP 304 Not Modified
+[2025-07-26 20:01:58] Nothing to do
+[2025-07-26 20:01:58] Verifying installation...
+[2025-07-26 20:01:58] Verifying all executable checksums
+[2025-07-26 20:01:58] Verification complete
+
+
+[2025-07-26 20:04:15] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 20:04:15] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe 
+[2025-07-26 20:04:15] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 20:04:15] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 20:04:15] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 20:04:15] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 20:04:15] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 20:04:15] Checking for update on startup
+[2025-07-26 20:04:15] Checking for available updates...
+[2025-07-26 20:04:15] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 20:04:15] Manifest download: send request
+[2025-07-26 20:04:15] Manifest download: waiting for download to finish
+[2025-07-26 20:04:15] Manifest download: finished
+[2025-07-26 20:04:15] Download skipped by HTTP 304 Not Modified
+[2025-07-26 20:04:15] Nothing to do
+[2025-07-26 20:04:15] Verifying installation...
+[2025-07-26 20:04:15] Verifying all executable checksums
+[2025-07-26 20:04:15] Verification complete
+
+
+[2025-07-26 20:06:58] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 20:06:58] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe 
+[2025-07-26 20:06:58] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 20:06:58] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 20:06:58] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 20:06:58] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 20:06:58] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 20:06:58] Checking for update on startup
+[2025-07-26 20:06:58] Checking for available updates...
+[2025-07-26 20:06:58] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 20:06:58] Manifest download: send request
+[2025-07-26 20:06:58] Manifest download: waiting for download to finish
+[2025-07-26 20:06:59] Manifest download: finished
+[2025-07-26 20:06:59] Download skipped by HTTP 304 Not Modified
+[2025-07-26 20:06:59] Nothing to do
+[2025-07-26 20:06:59] Verifying installation...
+[2025-07-26 20:06:59] Verifying all executable checksums
+[2025-07-26 20:06:59] Verification complete
+
+
+[2025-07-26 20:07:21] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 20:07:21] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe 
+[2025-07-26 20:07:21] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 20:07:21] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 20:07:21] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 20:07:21] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 20:07:21] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 20:07:21] Checking for update on startup
+[2025-07-26 20:07:21] Checking for available updates...
+[2025-07-26 20:07:21] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 20:07:21] Manifest download: send request
+[2025-07-26 20:07:22] Manifest download: waiting for download to finish
+[2025-07-26 20:07:22] Manifest download: finished
+[2025-07-26 20:07:22] Download skipped by HTTP 304 Not Modified
+[2025-07-26 20:07:22] Nothing to do
+[2025-07-26 20:07:22] Verifying installation...
+[2025-07-26 20:07:22] Verifying all executable checksums
+[2025-07-26 20:07:22] Verification complete
+
+
+[2025-07-26 20:09:51] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 20:09:51] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe 
+[2025-07-26 20:09:51] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 20:09:51] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 20:09:51] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 20:09:51] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 20:09:51] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 20:09:51] Checking for update on startup
+[2025-07-26 20:09:51] Checking for available updates...
+[2025-07-26 20:09:51] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 20:09:51] Manifest download: send request
+[2025-07-26 20:09:51] Manifest download: waiting for download to finish
+[2025-07-26 20:09:51] Manifest download: finished
+[2025-07-26 20:09:51] Download skipped by HTTP 304 Not Modified
+[2025-07-26 20:09:51] Nothing to do
+[2025-07-26 20:09:51] Verifying installation...
+[2025-07-26 20:09:51] Verifying all executable checksums
+[2025-07-26 20:09:51] Verification complete
+
+
+[2025-07-26 20:11:49] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 20:11:49] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe 
+[2025-07-26 20:11:49] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 20:11:49] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 20:11:49] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 20:11:49] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 20:11:49] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 20:11:49] Checking for update on startup
+[2025-07-26 20:11:49] Checking for available updates...
+[2025-07-26 20:11:49] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 20:11:49] Manifest download: send request
+[2025-07-26 20:11:49] Manifest download: waiting for download to finish
+[2025-07-26 20:11:49] Manifest download: finished
+[2025-07-26 20:11:49] Download skipped by HTTP 304 Not Modified
+[2025-07-26 20:11:49] Nothing to do
+[2025-07-26 20:11:49] Verifying installation...
+[2025-07-26 20:11:49] Verifying all executable checksums
+[2025-07-26 20:11:49] Verification complete
+
+
+[2025-07-26 21:46:50] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 21:46:50] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 21:46:50] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 21:46:50] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 21:46:50] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 21:46:50] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 21:46:50] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 21:46:50] Checking for update on startup
+[2025-07-26 21:46:50] Checking for available updates...
+[2025-07-26 21:46:50] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 21:46:50] Manifest download: send request
+[2025-07-26 21:46:50] Manifest download: waiting for download to finish
+[2025-07-26 21:46:51] Manifest download: finished
+[2025-07-26 21:46:51] Download skipped by HTTP 304 Not Modified
+[2025-07-26 21:46:51] Nothing to do
+[2025-07-26 21:46:51] Verifying installation...
+[2025-07-26 21:46:51] Verifying all executable checksums
+[2025-07-26 21:46:51] Verification complete
+[2025-07-26 21:46:51] Shutdown
+
+
+[2025-07-26 21:47:36] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 21:47:36] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 21:47:36] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 21:47:36] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 21:47:36] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 21:47:36] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 21:47:36] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 21:47:36] Checking for update on startup
+[2025-07-26 21:47:36] Checking for available updates...
+[2025-07-26 21:47:36] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 21:47:36] Manifest download: send request
+[2025-07-26 21:47:36] Manifest download: waiting for download to finish
+[2025-07-26 21:47:36] Manifest download: finished
+[2025-07-26 21:47:36] Download skipped by HTTP 304 Not Modified
+[2025-07-26 21:47:36] Nothing to do
+[2025-07-26 21:47:36] Verifying installation...
+[2025-07-26 21:47:36] Verifying all executable checksums
+[2025-07-26 21:47:36] Verification complete
+[2025-07-26 21:47:37] Shutdown
+
+
+[2025-07-26 21:48:52] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 21:48:52] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 21:48:52] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 21:48:52] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 21:48:52] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 21:48:52] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 21:48:52] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 21:48:52] Checking for update on startup
+[2025-07-26 21:48:52] Checking for available updates...
+[2025-07-26 21:48:52] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 21:48:52] Manifest download: send request
+[2025-07-26 21:48:52] Manifest download: waiting for download to finish
+[2025-07-26 21:48:52] Manifest download: finished
+[2025-07-26 21:48:52] Download skipped by HTTP 304 Not Modified
+[2025-07-26 21:48:52] Nothing to do
+[2025-07-26 21:48:52] Verifying installation...
+[2025-07-26 21:48:52] Verifying all executable checksums
+[2025-07-26 21:48:53] Verification complete
+[2025-07-26 21:48:53] Shutdown
+
+
+[2025-07-26 21:49:38] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 21:49:38] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 21:49:38] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 21:49:38] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 21:49:38] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 21:49:38] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 21:49:38] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 21:49:38] Checking for update on startup
+[2025-07-26 21:49:38] Checking for available updates...
+[2025-07-26 21:49:38] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 21:49:38] Manifest download: send request
+[2025-07-26 21:49:38] Manifest download: waiting for download to finish
+[2025-07-26 21:49:39] Manifest download: finished
+[2025-07-26 21:49:39] Download skipped by HTTP 304 Not Modified
+[2025-07-26 21:49:39] Nothing to do
+[2025-07-26 21:49:39] Verifying installation...
+[2025-07-26 21:49:39] Verifying all executable checksums
+[2025-07-26 21:49:39] Verification complete
+[2025-07-26 21:49:39] Shutdown
+
+
+[2025-07-26 21:54:20] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 21:54:20] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 21:54:20] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 21:54:20] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 21:54:20] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 21:54:20] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 21:54:20] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 21:54:20] Checking for update on startup
+[2025-07-26 21:54:20] Checking for available updates...
+[2025-07-26 21:54:20] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 21:54:20] Manifest download: send request
+[2025-07-26 21:54:20] Manifest download: waiting for download to finish
+[2025-07-26 21:54:20] Manifest download: finished
+[2025-07-26 21:54:20] Download skipped by HTTP 304 Not Modified
+[2025-07-26 21:54:20] Nothing to do
+[2025-07-26 21:54:20] Verifying installation...
+[2025-07-26 21:54:20] Verifying all executable checksums
+[2025-07-26 21:54:20] Verification complete
+[2025-07-26 21:54:21] Shutdown
+
+
+[2025-07-26 21:55:53] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 21:55:53] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 21:55:53] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 21:55:53] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 21:55:53] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 21:55:53] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 21:55:53] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 21:55:53] Checking for update on startup
+[2025-07-26 21:55:53] Checking for available updates...
+[2025-07-26 21:55:53] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 21:55:53] Manifest download: send request
+[2025-07-26 21:55:53] Manifest download: waiting for download to finish
+[2025-07-26 21:55:53] Manifest download: finished
+[2025-07-26 21:55:53] Download skipped by HTTP 304 Not Modified
+[2025-07-26 21:55:53] Nothing to do
+[2025-07-26 21:55:53] Verifying installation...
+[2025-07-26 21:55:53] Verifying all executable checksums
+[2025-07-26 21:55:53] Verification complete
+[2025-07-26 21:55:53] Shutdown
+
+
+[2025-07-26 21:57:37] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 21:57:37] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 21:57:37] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 21:57:37] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 21:57:37] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 21:57:37] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 21:57:37] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 21:57:37] Checking for update on startup
+[2025-07-26 21:57:37] Checking for available updates...
+[2025-07-26 21:57:37] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 21:57:37] Manifest download: send request
+[2025-07-26 21:57:37] Manifest download: waiting for download to finish
+[2025-07-26 21:57:37] Manifest download: finished
+[2025-07-26 21:57:37] Download skipped by HTTP 304 Not Modified
+[2025-07-26 21:57:37] Nothing to do
+[2025-07-26 21:57:37] Verifying installation...
+[2025-07-26 21:57:37] Verifying all executable checksums
+[2025-07-26 21:57:37] Verification complete
+[2025-07-26 21:57:37] Shutdown
+
+
+[2025-07-26 21:59:11] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 21:59:11] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 21:59:11] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 21:59:11] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 21:59:11] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 21:59:11] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 21:59:11] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 21:59:11] Checking for update on startup
+[2025-07-26 21:59:11] Checking for available updates...
+[2025-07-26 21:59:11] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 21:59:11] Manifest download: send request
+[2025-07-26 21:59:11] Manifest download: waiting for download to finish
+[2025-07-26 21:59:12] Manifest download: finished
+[2025-07-26 21:59:12] Download skipped by HTTP 304 Not Modified
+[2025-07-26 21:59:12] Nothing to do
+[2025-07-26 21:59:12] Verifying installation...
+[2025-07-26 21:59:12] Verifying all executable checksums
+[2025-07-26 21:59:12] Verification complete
+[2025-07-26 21:59:12] Shutdown
+
+
+[2025-07-26 22:01:02] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 22:01:02] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 22:01:02] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 22:01:02] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 22:01:02] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 22:01:02] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 22:01:02] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 22:01:02] Checking for update on startup
+[2025-07-26 22:01:02] Checking for available updates...
+[2025-07-26 22:01:02] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 22:01:02] Manifest download: send request
+[2025-07-26 22:01:02] Manifest download: waiting for download to finish
+[2025-07-26 22:01:03] Manifest download: finished
+[2025-07-26 22:01:03] Download skipped by HTTP 304 Not Modified
+[2025-07-26 22:01:03] Nothing to do
+[2025-07-26 22:01:03] Verifying installation...
+[2025-07-26 22:01:03] Verifying all executable checksums
+[2025-07-26 22:01:03] Verification complete
+[2025-07-26 22:01:03] Shutdown
+
+
+[2025-07-26 22:03:46] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 22:03:46] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +runscript C:\MyNewServerManager\SteamCMD\update_atlas_script.txt
+[2025-07-26 22:03:46] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 22:03:46] Loading cached metrics from disk (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+[2025-07-26 22:03:46] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 22:03:46] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 22:03:46] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 22:03:46] Checking for update on startup
+[2025-07-26 22:03:46] Checking for available updates...
+[2025-07-26 22:03:46] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 22:03:46] Manifest download: send request
+[2025-07-26 22:03:46] Manifest download: waiting for download to finish
+[2025-07-26 22:03:46] Manifest download: finished
+[2025-07-26 22:03:46] Download skipped by HTTP 304 Not Modified
+[2025-07-26 22:03:46] Nothing to do
+[2025-07-26 22:03:46] Verifying installation...
+[2025-07-26 22:03:46] Verifying all executable checksums
+[2025-07-26 22:03:47] Verification complete
+[2025-07-26 22:03:51] Clearing cached metrics (C:\MyNewServerManager\SteamCMD\package\steam_cmd_metrics.bin)
+
+
+[2025-07-26 22:06:47] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 22:06:47] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 22:06:47] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 22:06:47] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 22:06:47] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 22:06:47] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 22:06:47] Checking for update on startup
+[2025-07-26 22:06:47] Checking for available updates...
+[2025-07-26 22:06:47] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 22:06:47] Manifest download: send request
+[2025-07-26 22:06:47] Manifest download: waiting for download to finish
+[2025-07-26 22:06:47] Manifest download: finished
+[2025-07-26 22:06:47] Download skipped by HTTP 304 Not Modified
+[2025-07-26 22:06:47] Nothing to do
+[2025-07-26 22:06:47] Verifying installation...
+[2025-07-26 22:06:47] Verifying all executable checksums
+[2025-07-26 22:06:47] Verification complete
+[2025-07-26 22:06:48] Shutdown
+
+
+[2025-07-26 22:06:49] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 22:06:49] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +runscript C:\MyNewServerManager\SteamCMD\update_atlas_script.txt
+[2025-07-26 22:06:49] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 22:06:49] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 22:06:49] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 22:06:49] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 22:06:49] Checking for update on startup
+[2025-07-26 22:06:49] Checking for available updates...
+[2025-07-26 22:06:49] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 22:06:49] Manifest download: send request
+[2025-07-26 22:06:49] Manifest download: waiting for download to finish
+[2025-07-26 22:06:50] Manifest download: finished
+[2025-07-26 22:06:50] Download skipped by HTTP 304 Not Modified
+[2025-07-26 22:06:50] Nothing to do
+[2025-07-26 22:06:50] Verifying installation...
+[2025-07-26 22:06:50] Verifying all executable checksums
+[2025-07-26 22:06:50] Verification complete
+[2025-07-26 22:08:43] Shutdown
+
+
+[2025-07-26 22:10:24] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 22:10:24] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 22:10:24] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 22:10:24] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 22:10:24] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 22:10:24] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 22:10:24] Checking for update on startup
+[2025-07-26 22:10:24] Checking for available updates...
+[2025-07-26 22:10:24] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 22:10:24] Manifest download: send request
+[2025-07-26 22:10:24] Manifest download: waiting for download to finish
+[2025-07-26 22:10:25] Manifest download: finished
+[2025-07-26 22:10:25] Download skipped by HTTP 304 Not Modified
+[2025-07-26 22:10:25] Nothing to do
+[2025-07-26 22:10:25] Verifying installation...
+[2025-07-26 22:10:25] Verifying all executable checksums
+[2025-07-26 22:10:25] Verification complete
+[2025-07-26 22:10:25] Shutdown
+
+
+[2025-07-26 22:11:49] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 22:11:49] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 22:11:49] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 22:11:49] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 22:11:49] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 22:11:49] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 22:11:49] Checking for update on startup
+[2025-07-26 22:11:49] Checking for available updates...
+[2025-07-26 22:11:49] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 22:11:49] Manifest download: send request
+[2025-07-26 22:11:49] Manifest download: waiting for download to finish
+[2025-07-26 22:11:49] Manifest download: finished
+[2025-07-26 22:11:49] Download skipped by HTTP 304 Not Modified
+[2025-07-26 22:11:49] Nothing to do
+[2025-07-26 22:11:49] Verifying installation...
+[2025-07-26 22:11:49] Verifying all executable checksums
+[2025-07-26 22:11:49] Verification complete
+[2025-07-26 22:11:50] Shutdown
+
+
+[2025-07-26 22:13:01] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 22:13:01] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 22:13:01] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 22:13:01] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 22:13:01] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 22:13:01] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 22:13:01] Checking for update on startup
+[2025-07-26 22:13:01] Checking for available updates...
+[2025-07-26 22:13:01] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 22:13:01] Manifest download: send request
+[2025-07-26 22:13:02] Manifest download: waiting for download to finish
+[2025-07-26 22:13:02] Manifest download: finished
+[2025-07-26 22:13:02] Download skipped by HTTP 304 Not Modified
+[2025-07-26 22:13:02] Nothing to do
+[2025-07-26 22:13:02] Verifying installation...
+[2025-07-26 22:13:02] Verifying all executable checksums
+[2025-07-26 22:13:02] Verification complete
+[2025-07-26 22:13:02] Shutdown
+
+
+[2025-07-26 22:17:00] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 22:17:00] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +quit
+[2025-07-26 22:17:00] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 22:17:00] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 22:17:00] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 22:17:00] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 22:17:00] Checking for update on startup
+[2025-07-26 22:17:00] Checking for available updates...
+[2025-07-26 22:17:00] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 22:17:00] Manifest download: send request
+[2025-07-26 22:17:00] Manifest download: waiting for download to finish
+[2025-07-26 22:17:01] Manifest download: finished
+[2025-07-26 22:17:01] Download skipped by HTTP 304 Not Modified
+[2025-07-26 22:17:01] Nothing to do
+[2025-07-26 22:17:01] Verifying installation...
+[2025-07-26 22:17:01] Verifying all executable checksums
+[2025-07-26 22:17:01] Verification complete
+[2025-07-26 22:17:01] Shutdown
+
+
+[2025-07-26 22:17:03] Startup - updater built Jun 27 2025 18:06:03
+[2025-07-26 22:17:03] Startup - Steam Client launched with: C:\MyNewServerManager\SteamCMD\steamcmd.exe +runscript C:\MyNewServerManager\SteamCMD\update_atlas_script.txt
+[2025-07-26 22:17:03] Windows 10.0.26100.0, 0, 2, 256, 1, 48 
+[2025-07-26 22:17:03] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2025-07-26 22:17:03] Using the following download hosts for Public, Realm steamglobal
+[2025-07-26 22:17:03] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2025-07-26 22:17:03] Checking for update on startup
+[2025-07-26 22:17:03] Checking for available updates...
+[2025-07-26 22:17:03] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2025-07-26 22:17:03] Manifest download: send request
+[2025-07-26 22:17:03] Manifest download: waiting for download to finish
+[2025-07-26 22:17:03] Manifest download: finished
+[2025-07-26 22:17:03] Download skipped by HTTP 304 Not Modified
+[2025-07-26 22:17:03] Nothing to do
+[2025-07-26 22:17:03] Verifying installation...
+[2025-07-26 22:17:03] Verifying all executable checksums
+[2025-07-26 22:17:03] Verification complete

@@ -10,8 +10,8 @@ statusTable = {
     "labelWidth": 85,
     "valueX": 95,
     "valueWidth": 120,
-    "rowHeight": 14,
-    "rowSpacing": 4,
+    "rowHeight": 16,
+    "rowSpacing": 1,
     "rows": [
         {"label": "SteamCMD:", "value": "Not Installed", "objectName": "label-status-steamcmd"},
         {"label": "ATLAS:", "value": "Not Installed", "objectName": "label-status-atlas"},
@@ -25,8 +25,8 @@ metricsTable = {
     "labelWidth": 50,
     "valueX": 355,
     "valueWidth": 40,
-    "rowHeight": 14,
-    "rowSpacing": 4,
+    "rowHeight": 16,
+    "rowSpacing": 1,
     "rows": [
         {"label": "CPU:", "value": "", "objectName": "label-cpu"},
         {"label": "Memory:", "value": "", "objectName": "label-mem"}

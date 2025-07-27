@@ -3,70 +3,111 @@
     border: 1px solid #9EB3C2;
 }
 
-#label-status-prefix {
+/* Prefix labels */
+QLabel#label-prefix-steamcmd,
+QLabel#label-prefix-atlas,
+QLabel#label-prefix-redis,
+QLabel#label-prefix-cpu,
+QLabel#label-prefix-memory {
+    background: transparent;
     color: #9EB3C2;
+    font-weight: bold;
     font-size: 11px;
-    border: none;
-    background: transparent;
 }
 
-#label-status-steamcmd,
-#label-status-atlas,
-#label-status-redis {
-    color: #822E06;
-    font-size: 11px;
-    border: none;
+/* SteamCMD status */
+QLabel#label-status-steamcmd-installed {
+    color: #00FF00;
     background: transparent;
+    font-weight: bold;
+}
+QLabel#label-status-steamcmd-missing {
+    color: #FF3333;
+    background: transparent;
+    font-weight: bold;
+}
+QLabel#label-status-steamcmd-unknown {
+    color: #FFFF00;
+    background: transparent;
+    font-weight: bold;
 }
 
-#label-status-steamcmd-installed {
+/* ATLAS status */
+QLabel#label-status-atlas-installed {
+    color: #00FF00;
     background: transparent;
-    font-size: 11px;
-    color: #06826C;
+    font-weight: bold;
+}
+QLabel#label-status-atlas-missing {
+    color: #FF3333;
+    background: transparent;
+    font-weight: bold;
+}
+QLabel#label-status-atlas-unknown {
+    color: #FFFF00;
+    background: transparent;
+    font-weight: bold;
 }
 
-#label-status-steamcmd-missing {
+/* REDIS status */
+QLabel#label-status-redis-running {
+    color: #00FF00;
     background: transparent;
-    font-size: 11px;
-    color: #822E06;
+    font-weight: bold;
+}
+QLabel#label-status-redis-stopped {
+    color: #FF3333;
+    background: transparent;
+    font-weight: bold;
+}
+QLabel#label-status-redis-unknown {
+    color: #FFFF00;
+    background: transparent;
+    font-weight: bold;
 }
 
-#label-cpu,
-#label-mem {
-    color: #9EB3C2;
-    font-size: 11px;
-    border: none;
+/* CPU/Memory values */
+QLabel#label-cpu,
+QLabel#label-mem {
+    color: #FFFFFF;
     background: transparent;
+    font-weight: bold;
+    font-size: 12px;
 }
 
-#btn-redis-start {
+/* Buttons */
+QPushButton#btn-exit-leave {
     background-color: #06826C;
-    color: black;
-    font-size: 14px;
+    color: #FFFFFF;
     font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
     border: 1px solid #9EB3C2;
 }
 
-#btn-redis-stop {
+QPushButton#btn-exit-stop {
     background-color: #822E06;
-    color: #9EB3C2;
-    font-size: 14px;
+    color: #FFFFFF;
     font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
     border: 1px solid #9EB3C2;
 }
 
-#btn-exit-stop {
-    background-color: #822E06;
-    color: #9EB3C2;
-    font-size: 14px;
-    font-weight: bold;
-    border: 1px solid #9EB3C2;
-}
-
-#btn-exit-leave {
+QPushButton#btn-redis-stop {
     background-color: #826C06;
-    color: black;
-    font-size: 14px;
+    color: #FFFFFF;
     font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
+    border: 1px solid #9EB3C2;
+}
+
+QPushButton#btn-redis-start {
+    background-color: #1C7293;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 10px;
+    font-family: Montserrat;
     border: 1px solid #9EB3C2;
 }

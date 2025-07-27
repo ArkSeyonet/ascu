@@ -4,16 +4,51 @@ import os
 import urllib.request
 import shutil
 
+# Dynamically detect current ABI tag, e.g. 'cp311', 'cp313'
+PY_ABI = f"cp{sys.version_info.major}{sys.version_info.minor}"
+
 REQUIRED_MODULES = {
     "PyQt6": {
-        "whl_url": "https://files.pythonhosted.org/packages/8e/0d/f1dd790255f345310313e5b793f7a5b9d6c8c90d4b55de4246d17405dc2c/PyQt6-6.6.1-cp311-abi3-win_amd64.whl"
+        "base_name": "PyQt6",
+        "version": "6.6.1",
+        "abi": "abi3",  # PyQt6 wheels use abi3 for compatibility
+        "platform": "win_amd64"
     },
     "psutil": {
-        "whl_url": "https://files.pythonhosted.org/packages/50/1b/6921afe68c74868b4c9fa424dad3be35b095e16687989ebbb50ce4fceb7c/psutil-7.0.0-cp311-cp311-win_amd64.whl"
+        "base_name": "psutil",
+        "version": "7.0.0",
+        "abi": PY_ABI,
+        "platform": "win_amd64"
+    },
+    "pyqtconsole": {
+        "base_name": "pyqtconsole",
+        "version": None,  # pip-only for now
+        "abi": None,
+        "platform": None
     }
 }
 
+def build_wheel_url(module, meta):
+    if meta["version"] and meta["abi"] and meta["platform"]:
+        file_name = f"{meta['base_name']}-{meta['version']}-{meta['abi']}-{meta['abi']}-{meta['platform']}.whl"
+        return f"https://files.pythonhosted.org/packages/latest/{file_name}"
+    return None
+
+def is_installed(module_name):
+    try:
+        result = subprocess.run(
+            [sys.executable, "-m", "pip", "show", module_name],
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL
+        )
+        return result.returncode == 0
+    except Exception:
+        return False
+
 def install_from_url(module, url):
+    if not url:
+        return False
+
     files_dir = os.path.join(os.getcwd(), "files")
     os.makedirs(files_dir, exist_ok=True)
 
@@ -38,16 +73,15 @@ def install_from_url(module, url):
 
 def ensure_dependencies():
     for module, meta in REQUIRED_MODULES.items():
-        try:
-            __import__(module)
-        except ImportError:
+        if not is_installed(module):
             print(f"[WARN] Module '{module}' not found. Attempting pip install...")
             try:
                 subprocess.check_call([sys.executable, "-m", "pip", "install", module])
             except Exception as e:
-                print(f"[ERROR] Pip install failed: {e}")
-                print(f"[INFO] Attempting direct wheel download for '{module}'...")
-                if not install_from_url(module, meta["whl_url"]):
+                print(f"[ERROR] Pip install failed for '{module}': {e}")
+                print(f"[INFO] Attempting direct wheel install...")
+                wheel_url = build_wheel_url(module, meta)
+                if not install_from_url(module, wheel_url):
                     print(f"[FATAL] Cannot continue without '{module}'")
                     sys.exit(1)
             print(f"[OK] Installed: {module}. Restarting script...")

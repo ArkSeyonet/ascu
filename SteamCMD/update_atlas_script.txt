@@ -1,0 +1,4 @@
+force_install_dir C:\atlasdedicatedserver
+login anonymous
+app_update 1006030 validate
+quit
