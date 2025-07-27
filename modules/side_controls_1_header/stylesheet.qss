@@ -1,0 +1,13 @@
+#sideControls1Header {
+    background-color: #066482;
+    border: 1px solid #9EB3C2;
+}
+
+#sideControls1Header-label {
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: 'Montserrat-Bold';
+    background: transparent;
+    border: none;
+}

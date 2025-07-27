@@ -1,0 +1,72 @@
+#header-right {
+    background-color: #1B3B6F;
+    border: 1px solid #9EB3C2;
+}
+
+#label-status-prefix {
+    color: #9EB3C2;
+    font-size: 11px;
+    border: none;
+    background: transparent;
+}
+
+#label-status-steamcmd,
+#label-status-atlas,
+#label-status-redis {
+    color: #822E06;
+    font-size: 11px;
+    border: none;
+    background: transparent;
+}
+
+#label-status-steamcmd-installed {
+    background: transparent;
+    font-size: 11px;
+    color: #06826C;
+}
+
+#label-status-steamcmd-missing {
+    background: transparent;
+    font-size: 11px;
+    color: #822E06;
+}
+
+#label-cpu,
+#label-mem {
+    color: #9EB3C2;
+    font-size: 11px;
+    border: none;
+    background: transparent;
+}
+
+#btn-redis-start {
+    background-color: #06826C;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    border: 1px solid #9EB3C2;
+}
+
+#btn-redis-stop {
+    background-color: #822E06;
+    color: #9EB3C2;
+    font-size: 14px;
+    font-weight: bold;
+    border: 1px solid #9EB3C2;
+}
+
+#btn-exit-stop {
+    background-color: #822E06;
+    color: #9EB3C2;
+    font-size: 14px;
+    font-weight: bold;
+    border: 1px solid #9EB3C2;
+}
+
+#btn-exit-leave {
+    background-color: #826C06;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    border: 1px solid #9EB3C2;
+}

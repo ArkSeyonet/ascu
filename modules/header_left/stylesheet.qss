@@ -1,0 +1,17 @@
+#header-left {
+    background-color: #065A82;
+    border: 1px solid #9EB3C2;
+}
+
+#atlas-logo {
+    border: none;
+    background: transparent;
+}
+
+#atlas-title {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    background: transparent;
+}

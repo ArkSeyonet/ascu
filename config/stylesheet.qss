@@ -1,0 +1,47 @@
+QWidget {
+    background-color: #21295C;
+    font-family: 'Montserrat-Bold';
+    color: white;
+}
+
+#topControls {
+    background-color: #065A82;
+    border: 1px solid #9EB3C2;
+}
+
+#serverGridHeader,
+#otherGridHeader {
+    background-color: #066482;
+    border: 1px solid #9EB3C2;
+}
+
+#serverGridCellsHeader,
+#otherGridCellsHeader {
+    background-color: #065A82;
+    border: 1px solid #9EB3C2;
+}
+
+#serverGrid,
+#otherGrid {
+    background-color: #1B3B6F;
+    border: 1px solid #9EB3C2;
+}
+
+#sideControls1,
+#sideControls2,
+#sideControls3 {
+    background-color: #065A82;
+    border: 1px solid #9EB3C2;
+}
+
+#sideControls1Header,
+#sideControls2Header,
+#sideControls3Header {
+    background-color: #066482;
+    border: 1px solid #9EB3C2;
+}
+
+#logger {
+    background-color: #1B3B6F;
+    border: 1px solid #9EB3C2;
+}
